@@ -1,5 +1,5 @@
 var lesson_kid = !1;
-$.getScript("/file/dungchung/function.js", function () {
+$.getScript("./file/dungchung/function.js", function () {
   lesson_kid = lesson_child();
 }),
   $(document).ready(function () {
