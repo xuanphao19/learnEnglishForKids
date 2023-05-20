@@ -546,7 +546,7 @@ $(document).ready(function () {
       }
       //temp 1
       $.ajax({
-        url: "/file/learn/child/pc/ta345_new/vocab.tpl",
+        url: "../../../../learn/child/pc/ta345_new/vocab.tpl",
         type: "GET",
         timeout: 15000,
         start: function () {},
@@ -554,7 +554,7 @@ $(document).ready(function () {
           if (window.sk_detect_get_temp1) {
             clearTimeout(window.sk_detect_get_temp1);
           }
-          data_vocab.url = "/file/learn/child/pc/ta345_new/";
+          data_vocab.url = "./file/learn/child/pc/ta345_new/";
           data_vocab.url_data =
             "https://goldenkids-data.tienganh123.com/file/learn/child/ta345_new/data/";
           _tpl = new jSmart(temp);
