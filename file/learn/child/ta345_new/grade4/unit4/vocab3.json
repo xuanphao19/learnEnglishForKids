@@ -1,0 +1,87 @@
+{
+  "lesson_name": "Unit 4 – When's your birthday?",
+  "video_link": "video/grade4/unit4/vocab3/vocab3",
+  "type": "1",
+  "new_words": [
+    {
+      "en": "first",
+      "homo": ["1st"],
+      "vi": "thứ nhất",
+      "time": "5.18",
+      "img_link": "img/grade4/unit4/vocab3/first.png",
+      "audio_link": "audio/grade4/unit4/vocab3/first"
+    },
+    {
+      "en": "second",
+      "homo": ["2nd"],
+      "vi": "thứ hai",
+      "time": "5.27",
+      "img_link": "img/grade4/unit4/vocab3/second.png",
+      "audio_link": "audio/grade4/unit4/vocab3/second"
+    },
+    {
+      "en": "third",
+      "homo": ["3rd"],
+      "vi": "thứ ba",
+      "time": "5.36",
+      "img_link": "img/grade4/unit4/vocab3/third.png",
+      "audio_link": "audio/grade4/unit4/vocab3/third"
+    },
+    {
+      "en": "fourth",
+      "homo": ["4th"],
+      "vi": "thứ tư",
+      "time": "5.44",
+      "img_link": "img/grade4/unit4/vocab3/fourth.png",
+      "audio_link": "audio/grade4/unit4/vocab3/fourth"
+    },
+    {
+      "en": "fifth",
+      "homo": ["5th"],
+      "vi": "thứ năm",
+      "time": "5.54",
+      "img_link": "img/grade4/unit4/vocab3/fifth.png",
+      "audio_link": "audio/grade4/unit4/vocab3/fifth"
+    },
+    {
+      "en": "sixth",
+      "homo": ["6th"],
+      "vi": "thứ sáu",
+      "time": "6.02",
+      "img_link": "img/grade4/unit4/vocab3/sixth.png",
+      "audio_link": "audio/grade4/unit4/vocab3/sixth"
+    },
+    {
+      "en": "seventh",
+      "homo": ["7th"],
+      "vi": "thứ bảy",
+      "time": "6.11",
+      "img_link": "img/grade4/unit4/vocab3/seventh.png",
+      "audio_link": "audio/grade4/unit4/vocab3/seventh"
+    },
+    {
+      "en": "eighth",
+      "homo": ["8th"],
+      "vi": "thứ tám",
+      "time": "6.22",
+      "img_link": "img/grade4/unit4/vocab3/eighth.png",
+      "audio_link": "audio/grade4/unit4/vocab3/eighth"
+    },
+    {
+      "en": "ninth",
+      "homo": ["9th"],
+      "vi": "thứ chín",
+      "time": "6.31",
+      "img_link": "img/grade4/unit4/vocab3/ninth.png",
+      "audio_link": "audio/grade4/unit4/vocab3/ninth"
+    },
+    {
+      "en": "tenth",
+      "homo": ["10th"],
+      "vi": "thứ mười",
+      "time": "6.39",
+      "img_link": "img/grade4/unit4/vocab3/tenth.png",
+      "audio_link": "audio/grade4/unit4/vocab3/tenth"
+    }
+  ]
+}

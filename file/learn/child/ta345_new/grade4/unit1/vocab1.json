@@ -1,0 +1,34 @@
+{
+  "lesson_name": "Unit 1 – Nice to see you again",
+  "video_link": "video/grade4/unit1/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "morning",
+      "vi": "buổi sáng",
+      "time": "0.54",
+      "img_link": "img/grade4/unit1/vocab1/morning.png",
+      "audio_link": "audio/grade4/unit1/vocab1/morning"
+    },
+    {
+      "en": "afternoon",
+      "vi": "buổi chiều",
+      "time": "2.03",
+      "img_link": "img/grade4/unit1/vocab1/afternoon.png",
+      "audio_link": "audio/grade4/unit1/vocab1/afternoon"
+    },
+    {
+      "en": "evening",
+      "vi": "buổi tối",
+      "time": "2.52",
+      "img_link": "img/grade4/unit1/vocab1/evening.png",
+      "audio_link": "audio/grade4/unit1/vocab1/evening"
+    },
+    {
+      "en": "night",
+      "vi": "đêm",
+      "time": "4.22",
+      "img_link": "img/grade4/unit1/vocab1/night.png",
+      "audio_link": "audio/grade4/unit1/vocab1/night"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lesson_name": "Unit 2 – I'm from Japan",
+  "video_link": "video/grade4/unit2/vocab1/vocab1",
+  "video_words": [
+    {
+      "en": "country",
+      "vi": "quốc gia",
+      "time": "0.51"
+    },
+    {
+      "en": "nationality",
+      "vi": "quốc tịch",
+      "time": "1.55"
+    },
+    {
+      "en": "America - American",
+      "vi": "nước Mỹ - người Mỹ",
+      "time": "2.55"
+    },
+    {
+      "en": "Australia - Australian",
+      "vi": "nước Úc - người Úc",
+      "time": "4.43"
+    },
+    {
+      "en": "Malaysia - Malaysian",
+      "vi": "nước Malaysia - người Malaysia",
+      "time": "6.26"
+    }
+  ],
+  "new_words": [
+    {
+      "en": "country",
+      "vi": "quốc gia",
+      "img_link": "img/grade4/unit2/vocab1/country.png",
+      "audio_link": "audio/grade4/unit2/vocab1/country"
+    },
+    {
+      "en": "nationality",
+      "vi": "quốc tịch",
+      "img_link": "img/grade4/unit2/vocab1/nationality.png",
+      "audio_link": "audio/grade4/unit2/vocab1/nationality"
+    },
+    {
+      "en": "America",
+      "vi": "nước Mỹ",
+      "img_link": "img/grade4/unit2/vocab1/america.png",
+      "audio_link": "audio/grade4/unit2/vocab1/america"
+    },
+    {
+      "en": "American",
+      "vi": "người Mỹ",
+      "img_link": "img/grade4/unit2/vocab1/american.png",
+      "audio_link": "audio/grade4/unit2/vocab1/american"
+    },
+    {
+      "en": "Australia",
+      "vi": "nước Úc",
+      "img_link": "img/grade4/unit2/vocab1/australia.png",
+      "audio_link": "audio/grade4/unit2/vocab1/australia"
+    },
+    {
+      "en": "Australian",
+      "vi": "người Úc",
+      "img_link": "img/grade4/unit2/vocab1/australian.png",
+      "audio_link": "audio/grade4/unit2/vocab1/australian"
+    },
+    {
+      "en": "Malaysia",
+      "vi": "nước Malaysia",
+      "img_link": "img/grade4/unit2/vocab1/malaysia.png",
+      "audio_link": "audio/grade4/unit2/vocab1/malaysia"
+    },
+    {
+      "en": "Malaysian",
+      "vi": "người Malaysia",
+      "img_link": "img/grade4/unit2/vocab1/malaysian.png",
+      "audio_link": "audio/grade4/unit2/vocab1/malaysian"
+    }
+  ]
+}

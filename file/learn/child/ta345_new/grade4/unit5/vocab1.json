@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 5 – Can you swim?",
+  "video_link": "video/grade4/unit5/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "count",
+      "vi": "đếm",
+      "time": "0.47",
+      "img_link": "img/grade4/unit5/vocab1/count.png",
+      "audio_link": "audio/grade4/unit5/vocab1/count"
+    },
+    {
+      "en": "volleyball",
+      "vi": "bóng chuyền",
+      "time": "2.02",
+      "img_link": "img/grade4/unit5/vocab1/volleyball.png",
+      "audio_link": "audio/grade4/unit5/vocab1/volleyball"
+    },
+    {
+      "en": "swing",
+      "vi": "đánh đu",
+      "time": "3.13",
+      "img_link": "img/grade4/unit5/vocab1/swing.png",
+      "audio_link": "audio/grade4/unit5/vocab1/swing"
+    },
+    {
+      "en": "ride",
+      "vi": "đi, cưỡi",
+      "time": "4.17",
+      "img_link": "img/grade4/unit5/vocab1/ride.png",
+      "audio_link": "audio/grade4/unit5/vocab1/ride"
+    },
+    {
+      "en": "climb",
+      "vi": "trèo",
+      "time": "5.25",
+      "img_link": "img/grade4/unit5/vocab1/climb.png",
+      "audio_link": "audio/grade4/unit5/vocab1/climb"
+    }
+  ]
+}

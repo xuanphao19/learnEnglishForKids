@@ -1,0 +1,55 @@
+{
+  "lesson_name": "Unit 3 – What day is it today?",
+  "video_link": "video/grade4/unit3/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "Monday",
+      "vi": "thứ Hai",
+      "time": "0.44",
+      "img_link": "img/grade4/unit3/vocab1/monday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/monday"
+    },
+    {
+      "en": "Tuesday",
+      "vi": "thứ Ba",
+      "time": "1.46",
+      "img_link": "img/grade4/unit3/vocab1/tuesday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/tuesday"
+    },
+    {
+      "en": "Wednesday",
+      "vi": "thứ Tư",
+      "time": "2.42",
+      "img_link": "img/grade4/unit3/vocab1/wednesday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/wednesday"
+    },
+    {
+      "en": "Thursday",
+      "vi": "thứ Năm",
+      "time": "3.51",
+      "img_link": "img/grade4/unit3/vocab1/thursday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/thursday"
+    },
+    {
+      "en": "Friday",
+      "vi": "thứ Sáu",
+      "time": "4.50",
+      "img_link": "img/grade4/unit3/vocab1/friday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/friday"
+    },
+    {
+      "en": "Saturday",
+      "vi": "thứ Bảy",
+      "time": "5.54",
+      "img_link": "img/grade4/unit3/vocab1/saturday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/saturday"
+    },
+    {
+      "en": "Sunday",
+      "vi": "Chủ Nhật",
+      "time": "7.09",
+      "img_link": "img/grade4/unit3/vocab1/sunday.png",
+      "audio_link": "audio/grade4/unit3/vocab1/sunday"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 1 – Nice to see you again",
+  "video_link": "video/grade4/unit1/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "pupil",
+      "vi": "học sinh",
+      "time": "0.40",
+      "img_link": "img/grade4/unit1/vocab2/pupil.png",
+      "audio_link": "audio/grade4/unit1/vocab2/pupil"
+    },
+    {
+      "en": "study",
+      "vi": "học tập",
+      "time": "1.53",
+      "img_link": "img/grade4/unit1/vocab2/study.png",
+      "audio_link": "audio/grade4/unit1/vocab2/study"
+    },
+    {
+      "en": "meet",
+      "vi": "gặp",
+      "time": "2.53",
+      "img_link": "img/grade4/unit1/vocab2/meet.png",
+      "audio_link": "audio/grade4/unit1/vocab2/meet"
+    },
+    {
+      "en": "see",
+      "vi": "nhìn thấy, gặp",
+      "time": "3.27",
+      "img_link": "img/grade4/unit1/vocab2/see.png",
+      "audio_link": "audio/grade4/unit1/vocab2/see"
+    },
+    {
+      "en": "tomorrow",
+      "vi": "ngày mai",
+      "time": "4.28",
+      "img_link": "img/grade4/unit1/vocab2/tomorrow.png",
+      "audio_link": "audio/grade4/unit1/vocab2/tomorrow"
+    }
+  ]
+}

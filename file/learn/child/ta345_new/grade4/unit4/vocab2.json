@@ -1,0 +1,48 @@
+{
+  "lesson_name": "Unit 4 – When's your birthday?",
+  "video_link": "video/grade4/unit4/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "July",
+      "vi": "tháng 7",
+      "time": "0.55",
+      "img_link": "img/grade4/unit4/vocab2/July.png",
+      "audio_link": "audio/grade4/unit4/vocab2/July"
+    },
+    {
+      "en": "August",
+      "vi": "tháng 8",
+      "time": "2.02",
+      "img_link": "img/grade4/unit4/vocab2/August.png",
+      "audio_link": "audio/grade4/unit4/vocab2/August"
+    },
+    {
+      "en": "September",
+      "vi": "tháng 9",
+      "time": "2.57",
+      "img_link": "img/grade4/unit4/vocab2/September.png",
+      "audio_link": "audio/grade4/unit4/vocab2/September"
+    },
+    {
+      "en": "October",
+      "vi": "tháng 10",
+      "time": "4.00",
+      "img_link": "img/grade4/unit4/vocab2/October.png",
+      "audio_link": "audio/grade4/unit4/vocab2/October"
+    },
+    {
+      "en": "November",
+      "vi": "tháng 11",
+      "time": "5.19",
+      "img_link": "img/grade4/unit4/vocab2/November.png",
+      "audio_link": "audio/grade4/unit4/vocab2/November"
+    },
+    {
+      "en": "December",
+      "vi": "tháng 12",
+      "time": "6.19",
+      "img_link": "img/grade4/unit4/vocab2/December.png",
+      "audio_link": "audio/grade4/unit4/vocab2/December"
+    }
+  ]
+}

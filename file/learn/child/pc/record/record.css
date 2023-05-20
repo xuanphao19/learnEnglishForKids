@@ -1,0 +1,243 @@
+@font-face {
+  font-family: roboto;
+  src: url("./font/roboto.ttf");
+  src: url("./font/roboto.ttf?#iefix") format("embedded-opentype"),
+    url("./font/roboto.ttf") format("truetype");
+}
+
+/* record new */
+.kr_bgyellow {
+  background-color: yellow;
+}
+
+#kr_arrecord {
+  z-index: 99999;
+  text-align: center;
+  line-height: 180%;
+  display: none;
+  position: absolute;
+  width: 420px;
+  height: auto;
+  padding: 15px 0px;
+  background-color: #175a92;
+  border-radius: 5px;
+  font-family: roboto;
+  font-size: 14px;
+}
+
+#kr_uparrow {
+  position: absolute;
+  top: -13px;
+  left: 195px;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid #175a92;
+}
+
+#kr_arresult {
+  width: 385px;
+  min-height: 65px;
+  margin: 0px auto 15px;
+  text-align: left;
+  background-color: white;
+  border-radius: 5px;
+}
+
+#krr_area {
+  width: 18%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#krr_arwave {
+  display: none;
+  text-align: center;
+  overflow: hidden;
+  top: 17px;
+}
+
+.krrw_wave {
+  width: 8px;
+  height: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #ed9c9c;
+}
+
+#krr_arscore {
+  display: none;
+  text-align: center;
+}
+
+#krrs_text {
+  color: #a6a6a6;
+  margin: 4px 0px 2px;
+}
+
+#krrs_number {
+  color: #259000;
+  font-size: 30px;
+}
+
+#krr_artext {
+  width: 76%;
+  height: 100%;
+  min-height: 65px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#krrt_bgtext {
+  height: 100%;
+  min-height: 65px;
+  display: table;
+}
+
+#krrt_text,
+#krrt_ins {
+  text-align: center;
+  color: #737373;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#krrt_text {
+  text-align: left;
+}
+
+#krr_verline {
+  width: 1px;
+  height: 80%;
+  min-height: 55px;
+  margin: 7px 7px 7px 0px;
+  display: none;
+  vertical-align: top;
+  background-color: #cccccc;
+}
+
+#kr_tresult {
+  display: none;
+  color: white;
+  font-size: 16px;
+  margin: -5px 0px 10px;
+}
+
+#kr_bclose {
+  width: 38px;
+  height: 38px;
+  cursor: pointer;
+  position: absolute;
+  top: -15px;
+  left: 405px;
+  background-image: url("./img/evr_bclose.png");
+}
+
+#kr_arbutton {
+  text-align: right;
+}
+
+#krb_arstop {
+  display: none;
+  width: 180px;
+  height: 30px;
+  text-align: left;
+  margin-right: 19px;
+  border-radius: 5px;
+  background-color: #3fb8ff;
+}
+
+#krbst_icon {
+  display: inline-block;
+  vertical-align: top;
+  margin: 7px 10px;
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+  background-color: #005180;
+}
+
+#krbst_text {
+  display: inline-block;
+  vertical-align: top;
+  margin: 3px 0px;
+  cursor: pointer;
+  color: #171717;
+}
+
+#krb_arrecord {
+  margin-right: 19px;
+  display: none;
+  vertical-align: top;
+  cursor: pointer;
+  text-align: left;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#krbre_icon {
+  width: 28px;
+  height: 28px;
+  margin: 1px 5px;
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url("./img/evr_irecord.png");
+}
+
+#krbre_text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#krb_arspeak {
+  display: none;
+  vertical-align: top;
+  cursor: pointer;
+  margin-right: 19px;
+  text-align: left;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #3fb8ff;
+}
+
+#krbsp_icon {
+  width: 27px;
+  height: 20px;
+  margin: 5px;
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url("./img/evr_ispeak.png");
+}
+
+.krbsp_icon_active {
+  background-position: -27px 0px;
+}
+
+#krbsp_text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#kr_araudio {
+  display: none;
+}
+
+#kr_none_kids {
+  display: none;
+  color: white;
+  padding: 15px;
+  font-size: 16px;
+}
+
+#krr_ispeak {
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  top: 9px;
+  left: 12px;
+  background-image: url("./img/evr_ispeak_big.png");
+}

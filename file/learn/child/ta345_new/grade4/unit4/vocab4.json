@@ -1,0 +1,111 @@
+{
+  "lesson_name": "Unit 4 – When's your birthday?",
+  "video_link": "video/grade4/unit4/vocab4/vocab4",
+  "type": "1",
+  "new_words": [
+    {
+      "en": "eleventh",
+      "homo": ["21st"],
+      "vi": "thứ mười một",
+      "time": "1.57",
+      "img_link": "img/grade4/unit4/vocab4/11.png",
+      "audio_link": "audio/grade4/unit4/vocab4/11"
+    },
+    {
+      "en": "twelfth",
+      "homo": ["12th"],
+      "vi": "thứ mười hai",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/12.png",
+      "audio_link": "audio/grade4/unit4/vocab4/12"
+    },
+    {
+      "en": "thirteenth",
+      "homo": ["13th"],
+      "vi": "thứ mười ba",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/13.png",
+      "audio_link": "audio/grade4/unit4/vocab4/13"
+    },
+    {
+      "en": "fourteenth",
+      "homo": ["14th"],
+      "vi": "thứ mười bốn",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/14.png",
+      "audio_link": "audio/grade4/unit4/vocab4/14"
+    },
+    {
+      "en": "fifteenth",
+      "homo": ["15th"],
+      "vi": "thứ mười lăm",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/15.png",
+      "audio_link": "audio/grade4/unit4/vocab4/15"
+    },
+    {
+      "en": "sixteenth",
+      "homo": ["16th"],
+      "vi": "thứ mười sáu",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/16.png",
+      "audio_link": "audio/grade4/unit4/vocab4/16"
+    },
+    {
+      "en": "seventeenth",
+      "homo": ["17th"],
+      "vi": "thứ mười bảy",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/17.png",
+      "audio_link": "audio/grade4/unit4/vocab4/17"
+    },
+    {
+      "en": "eighteenth",
+      "homo": ["18th"],
+      "vi": "thứ mười tám",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/18.png",
+      "audio_link": "audio/grade4/unit4/vocab4/18"
+    },
+    {
+      "en": "nineteenth",
+      "homo": ["19th"],
+      "vi": "thứ mười chín",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/19.png",
+      "audio_link": "audio/grade4/unit4/vocab4/19"
+    },
+    {
+      "en": "twentieth",
+      "homo": ["20th"],
+      "vi": "thứ hai mươi",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/20.png",
+      "audio_link": "audio/grade4/unit4/vocab4/20"
+    },
+    {
+      "en": "twenty-first",
+      "homo": ["21st"],
+      "vi": "thứ hai mươi mốt",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/21.png",
+      "audio_link": "audio/grade4/unit4/vocab4/21"
+    },
+    {
+      "en": "thirtieth",
+      "homo": ["30th"],
+      "vi": "thứ ba mươi",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/30.png",
+      "audio_link": "audio/grade4/unit4/vocab4/30"
+    },
+    {
+      "en": "thirty-first",
+      "homo": ["31st"],
+      "vi": "thứ ba mươi mốt",
+      "time": "2.26",
+      "img_link": "img/grade4/unit4/vocab4/31.png",
+      "audio_link": "audio/grade4/unit4/vocab4/31"
+    }
+  ]
+}

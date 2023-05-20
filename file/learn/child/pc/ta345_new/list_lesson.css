@@ -1,0 +1,99 @@
+@font-face {
+  font-family: roboto;
+  src: url("/file/learn/child/pc/ta345_new/font/roboto.eot");
+  src: url("/file/learn/child/pc/ta345_new/font/roboto.eot?#iefix")
+      format("embedded-opentype"),
+    url("/file/learn/child/pc/ta345_new/font/roboto.ttf") format("truetype");
+}
+.ell_ge {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.ell_link {
+  color: #247ba0;
+  text-decoration: none;
+}
+#ell_area {
+  width: 930px;
+  margin: 40px auto 40px auto;
+  font-family: arial;
+  font-size: 15px;
+  line-height: 30px;
+}
+#ell_tit {
+  font-family: roboto;
+  font-size: 22pt;
+  text-transform: uppercase;
+  color: #ec008c;
+  margin: 40px auto 30px;
+  text-align: center;
+}
+#ell_line {
+  margin: 0px auto 30px;
+  vertical-align: middle;
+  width: 85%;
+  height: 1px;
+  background-color: #e4e4e4;
+}
+#ell_bglesson {
+  text-align: center;
+}
+.ell_arlesson {
+  width: 275px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin: 0px 15px;
+}
+.elll_artit {
+  margin-bottom: 15px;
+}
+.elllt_icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+  width: 31px;
+  height: 30px;
+  background-image: url("/file/learn/child/pc/ta345_new/img/eli_icon.png");
+}
+.ell_arlecture .elllt_icon {
+  background-position: -31px 0px;
+}
+.ell_arphonics .elllt_icon {
+  background-position: -62px 0px;
+}
+.elllt_text {
+  display: inline-block;
+  vertical-align: middle;
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.elll_artext {
+  margin-left: 28px;
+}
+.elll_dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #00bde6;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+.elll_text {
+  display: inline-block;
+  vertical-align: top;
+  color: #247ba0;
+  width: 92%;
+  cursor: pointer;
+}
+.elll_text:hover {
+  color: #f46101;
+}
+.elll_text_selected {
+  color: #f46101 !important;
+}

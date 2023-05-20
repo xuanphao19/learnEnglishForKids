@@ -1,0 +1,298 @@
+{
+  "master": "master1",
+  "lecture": {
+    "title": "Lesson 1",
+    "name": "Unit 1 - Nice to see you again",
+    "ins": "Chào hỏi lịch sự (theo thời gian trong ngày). Các cách nói tạm biệt.",
+    "video_link": "video/grade4/unit1/lesson1/lesson1",
+    "summary": [
+      {
+        "title": "Chào hỏi trang trọng (theo thời gian trong ngày). Các cách nói lời tạm biệt.",
+        "content": [
+          "<s2>* Các cách chào hỏi theo thời gian trong ngày<e>",
+          "<p1>@ Good morning. |<s1>(Xin chào. (Khi gặp nhau buổi sáng.))<e><e>",
+          "<p1>@ Good afternoon. |<s1>(Xin chào. (Khi gặp nhau buổi chiều.))<e><e>",
+          "<p1>@ Good evening. |<s1>(Xin chào. (Khi gặp nhau buổi tối.))<e><e>",
+          "<s2>* Cách đáp lại lời chào trong lần gặp đầu tiên<e>",
+          "<p1>@ Nice to meet you. |<s1>(Rất vui được quen bạn.)<e><e>",
+          "<s2>* Cách đáp lại lời chào khi gặp lại ai đó<e>",
+          "<p1>@ Nice to see you again. |<s1>(Rất vui khi gặp lại bạn.)<e><e>",
+          "<s2>* Các cách nói tạm biệt<e>",
+          "<p1>@ Goodbye. |<s1>(Tạm biệt.)<e><e>",
+          "<p1>@ Bye. |<s1>(Tạm biệt.)<e><e>",
+          "<p1>@ Bye-bye. |<s1>(Tạm biệt.)<e><e>",
+          "<p1>@ See you tomorrow. |<s1>(Hẹn gặp lại bạn vào ngày mai.)<e><e>",
+          "<p1>@ See you later. |<s1>(Hẹn gặp lại bạn sau.)<e><e>",
+          "<p1>@ Good night. |<s1>(Chúc ngủ ngon.)<e><e>"
+        ],
+        "audio_link": [
+          "audio/grade4/unit1/lesson1/sum1",
+          "audio/grade4/unit1/lesson1/sum2",
+          "audio/grade4/unit1/lesson1/sum3",
+          "audio/grade4/unit1/lesson1/sum4",
+          "audio/grade4/unit1/lesson1/sum5",
+          "audio/grade4/unit1/lesson1/sum6",
+          "audio/grade4/unit1/lesson1/sum7",
+          "audio/grade4/unit1/lesson1/sum8",
+          "audio/grade4/unit1/lesson1/sum9",
+          "audio/grade4/unit1/lesson1/sum10",
+          "audio/grade4/unit1/lesson1/sum11"
+        ]
+      }
+    ],
+    "memorize": {
+      "sentences": [
+        "Good morning. |",
+        "Good afternoon. |",
+        "Nice to see you again. |",
+        "Goodbye. |",
+        "Bye. |",
+        "Bye-bye. |",
+        "See you tomorrow. |",
+        "See you later. |",
+        "Good night. |"
+      ],
+      "homo": ["", "", "", "", "Buy", "Bye bye", "", "", "Goodnight"],
+      "audio_link": [
+        "audio/grade4/unit1/lesson1/1",
+        "audio/grade4/unit1/lesson1/2",
+        "audio/grade4/unit1/lesson1/3",
+        "audio/grade4/unit1/lesson1/4",
+        "audio/grade4/unit1/lesson1/5",
+        "audio/grade4/unit1/lesson1/6",
+        "audio/grade4/unit1/lesson1/7",
+        "audio/grade4/unit1/lesson1/8",
+        "audio/grade4/unit1/lesson1/9"
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "template": "choose1",
+      "questions": [
+        {
+          "sentence": "Cách nào sau đây <b><i>không dùng để chào hỏi</i></b>:",
+          "options": ["Hello.", "What do you do?", "Hi.", "Good afternoon."],
+          "correct": "What do you do?",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_1a",
+            "audio/grade4/unit1/lesson1/ex1_1b",
+            "audio/grade4/unit1/lesson1/ex1_1c",
+            "audio/grade4/unit1/lesson1/ex1_1d"
+          ]
+        },
+        {
+          "sentence": "Để nói tạm biệt, chúng ta dùng:",
+          "options": [
+            "Bye-bye.",
+            "Nice to see you again.",
+            "Nice to meet you too.",
+            "Good morning, mom."
+          ],
+          "correct": "Bye-bye.",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_2a",
+            "audio/grade4/unit1/lesson1/ex1_2b",
+            "audio/grade4/unit1/lesson1/ex1_2c",
+            "audio/grade4/unit1/lesson1/ex1_2d"
+          ]
+        },
+        {
+          "sentence": "Cách chào khi gặp ai đó vào buổi sáng là:",
+          "options": [
+            "Good morning.",
+            "Good evening.",
+            "Good afternoon.",
+            "Good night."
+          ],
+          "correct": "Good morning.",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_3a",
+            "audio/grade4/unit1/lesson1/ex1_3b",
+            "audio/grade4/unit1/lesson1/ex1_3c",
+            "audio/grade4/unit1/lesson1/ex1_3d"
+          ]
+        },
+        {
+          "sentence": "Để nói: <b><i>''Rất vui được gặp lại bạn.''</i></b>, chúng ta nói:",
+          "options": [
+            "Nice to meet you too.",
+            "Nice to see you again.",
+            "See you tomorrow.",
+            "I’m fine. Thank you."
+          ],
+          "correct": "Nice to see you again.",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_4a",
+            "audio/grade4/unit1/lesson1/ex1_4b",
+            "audio/grade4/unit1/lesson1/ex1_4c",
+            "audio/grade4/unit1/lesson1/ex1_4d"
+          ]
+        },
+        {
+          "sentence": "<b><i>''See you tomorrow.''</i></b> có nghĩa là:",
+          "options": [
+            "Rất vui được gặp bạn.",
+            "Cảm ơn bạn rất nhiều.",
+            "Hẹn gặp bạn vào ngày mai.",
+            "Chúc ngủ ngon."
+          ],
+          "correct": "Hẹn gặp bạn vào ngày mai."
+        },
+        {
+          "sentence": "<b><i>''Good night.''</i></b> có nghĩa là:",
+          "options": [
+            "Rất vui được gặp lại bạn.",
+            "Tớ khỏe. Cảm ơn bạn.",
+            "Hẹn gặp bạn vào ngày mai.",
+            "Chúc ngủ ngon."
+          ],
+          "correct": "Chúc ngủ ngon."
+        },
+        {
+          "sentence": "Câu nào dưới đây có nghĩa là <b><i>''Hẹn gặp lại bạn sau.''</i></b>:",
+          "options": [
+            "See you later.",
+            "Good night.",
+            "Nice to see you again.",
+            "See you tomorrow."
+          ],
+          "correct": "See you later.",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_7a",
+            "audio/grade4/unit1/lesson1/ex1_7b",
+            "audio/grade4/unit1/lesson1/ex1_7c",
+            "audio/grade4/unit1/lesson1/ex1_7d"
+          ]
+        },
+        {
+          "sentence": "<b><i>''Good afternoon.''</i></b> là cách chào khi:",
+          "options": [
+            "Gặp ai đó vào buổi sáng.",
+            "Gặp ai đó vào buổi chiều.",
+            "Gặp ai đó vào buổi tối.",
+            "Chúc bạn buổi tối vui vẻ."
+          ],
+          "correct": "Gặp ai đó vào buổi chiều."
+        },
+        {
+          "sentence": "Cách đáp lại lời chào <b><i>''Good morning, Tony.''</i></b> là:",
+          "options": [
+            "Good morning, Linda. Nice to see you again.",
+            "Hi, Linda. Nice to meet you.",
+            "How are you?",
+            "Good night, Linda."
+          ],
+          "correct": "Good morning, Linda. Nice to see you again.",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_9a",
+            "audio/grade4/unit1/lesson1/ex1_9b",
+            "audio/grade4/unit1/lesson1/ex1_9c",
+            "audio/grade4/unit1/lesson1/ex1_9d"
+          ]
+        },
+        {
+          "sentence": "Cách đáp lại lời chào tạm biệt <b><i>''Bye, Quan.''</i></b> là:",
+          "options": [
+            "Bye, Nam. See you tomorrow.",
+            "Nice to meet you.",
+            "Good morning, Nam.",
+            "I’m very well, thank you."
+          ],
+          "correct": "Bye, Nam. See you tomorrow.",
+          "audio_options": [
+            "audio/grade4/unit1/lesson1/ex1_10a",
+            "audio/grade4/unit1/lesson1/ex1_10b",
+            "audio/grade4/unit1/lesson1/ex1_10c",
+            "audio/grade4/unit1/lesson1/ex1_10d"
+          ]
+        }
+      ]
+    },
+    {
+      "template": "choose1",
+      "questions": [
+        {
+          "sentence": "Good _____, class.",
+          "options": ["morning", "fine", "hello", "well"],
+          "correct": "morning"
+        },
+        {
+          "sentence": "How _____ you, Quan?",
+          "options": ["do", "are", "is", "am"],
+          "correct": "are"
+        },
+        {
+          "sentence": "Nice to see you _____.",
+          "options": ["tomorrow", "well", "later", "again"],
+          "correct": "again"
+        },
+        {
+          "sentence": "I’m good, _____ you.",
+          "options": ["thanks", "thank you", "thanks you", "thank"],
+          "correct": "thank"
+        },
+        {
+          "sentence": "Good _____, Dad.",
+          "options": ["bye-bye", "goodbye", "night", "well"],
+          "correct": "night"
+        },
+        {
+          "sentence": "Nice to meet you _____.",
+          "options": ["too", "fine", "good", "well"],
+          "correct": "too"
+        },
+        {
+          "sentence": "Goodbye. See you _____.",
+          "options": ["nice", "fine", "tomorrow", "night"],
+          "correct": "tomorrow"
+        },
+        {
+          "sentence": "Goodbye. See you _____.",
+          "options": ["later", "bye-bye", "nice", "good"],
+          "correct": "later"
+        },
+        {
+          "sentence": "My _____ is Linda. I’m a student.",
+          "options": ["name", "name’s", "name is", "names"],
+          "correct": "name"
+        },
+        {
+          "sentence": "I’m fine, thank you. _____ you?",
+          "options": ["And", "Good", "Later", "So"],
+          "correct": "And"
+        }
+      ]
+    },
+    {
+      "template": "choose5",
+      "questions": [
+        {
+          "paragraph": "Quan: Good |, Mr Loc.<br>Mr Loc: Good morning, Quan. How | you?<br>Quan: I’m very well, |. And you?<br>Mr Loc: I’m very well |.",
+          "correct": ["morning", "are", "thank you", "too"],
+          "options": [
+            "morning|afternoon|night",
+            "old are|do|are",
+            "thank|thank you|thanks you",
+            "so|again|too"
+          ]
+        },
+        {
+          "paragraph": "Mai: Hi, Linda. Nice to | you again.<br>Linda: Hi, Mai. | are you?<br>Mai: I’m good, thanks. | you?<br>Linda: I’m |. Thank you.",
+          "correct": ["see", "How", "And", "well"],
+          "options": [
+            "see|good|hello",
+            "How|What|Who",
+            "And|How|Too",
+            "nice|beautiful|well"
+          ]
+        },
+        {
+          "paragraph": "Mai: |, Linda.<br>Linda: Bye-bye. See you |.",
+          "correct": ["Goodbye", "later"],
+          "options": ["Goodbye|Good night|Good morning", "too|again|later"]
+        }
+      ]
+    }
+  ]
+}

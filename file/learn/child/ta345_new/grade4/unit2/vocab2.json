@@ -1,0 +1,59 @@
+{
+  "lesson_name": "Unit 2 – I'm from Japan",
+  "video_link": "video/grade4/unit2/vocab2/vocab2",
+  "video_words": [
+    {
+      "en": "England - English",
+      "vi": "nước Anh - người Anh",
+      "time": "0.47"
+    },
+    {
+      "en": "Japan - Japanese",
+      "vi": "nước Nhật - người Nhật",
+      "time": "2.24"
+    },
+    {
+      "en": "Vietnam - Vietnamese",
+      "vi": "nước Việt Nam - người Việt Nam",
+      "time": "4.05"
+    }
+  ],
+  "new_words": [
+    {
+      "en": "England",
+      "vi": "nước Anh",
+      "img_link": "img/grade4/unit2/vocab2/england.png",
+      "audio_link": "audio/grade4/unit2/vocab2/england"
+    },
+    {
+      "en": "English",
+      "vi": "người Anh",
+      "img_link": "img/grade4/unit2/vocab2/english.png",
+      "audio_link": "audio/grade4/unit2/vocab2/english"
+    },
+    {
+      "en": "Japan",
+      "vi": "nước Nhật Bản",
+      "img_link": "img/grade4/unit2/vocab2/japan.png",
+      "audio_link": "audio/grade4/unit2/vocab2/japan"
+    },
+    {
+      "en": "Japanese",
+      "vi": "người Nhật",
+      "img_link": "img/grade4/unit2/vocab2/japanese.png",
+      "audio_link": "audio/grade4/unit2/vocab2/japanese"
+    },
+    {
+      "en": "Vietnam",
+      "vi": "nước Việt Nam",
+      "img_link": "img/grade4/unit2/vocab2/vietnam.png",
+      "audio_link": "audio/grade4/unit2/vocab2/vietnam"
+    },
+    {
+      "en": "Vietnamese",
+      "vi": "người Việt Nam",
+      "img_link": "img/grade4/unit2/vocab2/vietnamese.png",
+      "audio_link": "audio/grade4/unit2/vocab2/vietnamese"
+    }
+  ]
+}

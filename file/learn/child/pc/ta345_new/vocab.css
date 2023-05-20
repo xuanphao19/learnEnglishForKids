@@ -1,0 +1,299 @@
+@font-face {
+  font-family: roboto;
+  src: url("/file/learn/child/pc/ta345_new/font/roboto.eot");
+  src: url("/file/learn/child/pc/ta345_new/font/roboto.eot?#iefix")
+      format("embedded-opentype"),
+    url("/file/learn/child/pc/ta345_new/font/roboto.ttf") format("truetype");
+}
+
+.ge {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+#ev_arvideo2 {
+  text-align: center;
+}
+
+#area_evocab {
+  font-family: roboto;
+  width: 986px;
+  padding: 25px;
+  margin: auto;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+#ev_tit {
+  font-size: 31px;
+  color: #ec008c;
+  margin-bottom: 12px;
+}
+
+#ev_name {
+  font-size: 26px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+/*#ev_ins{text-align: center; margin-bottom: 30px; font-size: 19px; color: #5b5b5b;}*/
+#ev_arvideo {
+  width: 1000px;
+  min-height: 415px;
+  left: -38px;
+  height: auto;
+  background-color: black;
+  margin: 40px 0px 40px 0px;
+}
+
+#evv_artask {
+  display: inline-block;
+  vertical-align: top;
+  margin: 25px 25px 30px 40px;
+}
+
+.evvt_bg {
+  width: 250px;
+  min-height: 50px;
+  cursor: pointer;
+  background-color: #00b9db;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.evvt_bg_disable {
+  background-color: #a7a7a7;
+}
+
+.evvt_icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 26px;
+  height: 26px;
+  margin: 12px 5px;
+  background-image: url("//goldenkids-data.tienganh123.com/file/learn/child/pc/ta345_new/img/ev_bplay.png");
+}
+
+.evvt_text {
+  display: inline-block;
+  vertical-align: middle;
+  width: 83%;
+  color: white;
+  font-size: 18px;
+}
+
+.evvtt_en {
+}
+
+.evvtt_vi {
+  display: none;
+  font-size: 17px;
+}
+
+.evvtt_vi_long {
+  font-size: 17px;
+}
+
+#evv_video {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 25px;
+}
+
+.evvt_bg_active .evvt_icon {
+  background-position: -26px 0px;
+}
+
+.evvt_bg_active {
+  background-color: #dd2685;
+}
+
+.evvt_bg_active .evvtt_vi {
+  display: block;
+}
+
+/* pratice */
+#ev_arpratice {
+}
+
+#evp_arheader {
+  text-align: center;
+  margin: 60px auto 30px auto;
+}
+
+.evph_line {
+  display: inline-block;
+  vertical-align: middle;
+  width: 180px;
+  height: 1px;
+  background-color: #ff8eb2;
+}
+
+.evph_bgtext {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 30px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 22px;
+  text-align: center;
+  width: 400px;
+  height: 33px;
+  padding-top: 2px;
+  margin: 0px 10px;
+  background-image: url("//goldenkids-data.tienganh123.com/file/learn/child/pc/ta345_new/img/ev_frame.png");
+}
+
+.evph_ins {
+  color: #333333;
+  font-size: 19px;
+  margin: 25px auto 16px auto;
+}
+
+.evphi_icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 67px;
+  height: 65px;
+  background-image: url("//goldenkids-data.tienganh123.com/file/learn/child/pc/ta345_new/img/ev_ilisten.png");
+}
+
+.evphi_text {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+#evp_arplay {
+  text-align: center;
+}
+
+.evpp_arword {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0px 32px 27px 0px;
+}
+
+.evpp_arword_active .evppw_pic {
+  border: solid 7px #ff0084;
+}
+
+.evpp_arword_active .evppw_arbottom {
+  border-bottom: dashed 2px #ff0084;
+  border-left: dashed 2px #ff0084;
+  border-right: dashed 2px #ff0084;
+}
+
+.evppw_pic {
+  width: 226px;
+  height: 226px;
+  cursor: pointer;
+  border: solid 7px #37b5ff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.evppw_arbottom {
+  width: 236px;
+  height: 120px;
+  padding-top: 19px;
+  text-align: center;
+  border-bottom: dashed 2px #37b5ff;
+  border-left: dashed 2px #37b5ff;
+  border-right: dashed 2px #37b5ff;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.evppw_ten {
+  font-size: 21px;
+  color: #dd2685;
+  display: inline-block;
+}
+
+.evppw_tvi {
+  font-family: arial;
+  font-size: 17px;
+  color: #878787;
+  margin: 12px auto 15px auto;
+}
+
+.evppw_tvi_long {
+  font-size: 16px;
+}
+
+.evppw_record {
+  width: 98px;
+  height: 34px;
+  background-image: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin: auto;
+  border: solid 2px #dd5555;
+  border-radius: 50px;
+}
+
+.evppw_record:hover {
+  background-color: #dd5555;
+  color: white;
+}
+
+.evppw_record:hover > .evppwr_icon {
+  background-position: -11px 0px;
+}
+
+.evppwr_icon {
+  width: 11px;
+  height: 20px;
+  margin: 7px;
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url("//goldenkids-data.tienganh123.com/file/learn/child/pc/ta345_new/img/ev_irecord.png");
+}
+
+.evppwr_text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.evppw_arbottom .span-audio {
+  display: none;
+}
+
+.record_dialog {
+  text-align: left;
+}
+
+/* video */
+.video_bgblack {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.3;
+}
+
+.video_icon {
+  z-index: 1;
+  position: relative;
+  margin: auto;
+  width: 93px;
+  height: 93px;
+  background-image: url("//goldenkids-data.tienganh123.com/file/learn/child/pc/ta345_new/img/video_icon.png");
+}
+
+#evvv_loading1 {
+  display: none;
+  position: absolute;
+  top: 161px;
+  left: 585px;
+}
+
+#evvv_loading2 {
+  display: none;
+  position: absolute;
+  top: 221px;
+  left: 417px;
+}
