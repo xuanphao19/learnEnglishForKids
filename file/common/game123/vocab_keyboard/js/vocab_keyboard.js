@@ -421,6 +421,7 @@ var non_kid_alert =
 
         $("#btn_start_vbkd").click(function () {
           $(this).parent().toggle("slide", { direction: "right" }, 500);
+          $(this).parent().css("display", "none");
           game_vocab_kd.asign();
         });
         $("#do_again").click(function () {
@@ -482,4 +483,4 @@ var non_kid_alert =
     }
   };
 })(jQuery);
-//$('#game_vocab_kd').vocab_kd();
+// $("#game_vocab_kd").vocab_kd();

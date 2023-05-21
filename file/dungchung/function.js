@@ -816,10 +816,10 @@
 //   return e + "_VIP.";
 //   // return paidmember() ? e + "_VIP." + i : e + "_VIP." + i;
 // }
-// function getLinkGoldenKids(e, i) {
-//   return e + "_GOLDENKIDS." + i;
-//   // return goldenkids_member() ? e + "_GOLDENKIDS." + i : e + "_GOLDENKIDS." + i;
-// }
+function getLinkGoldenKids(e, i) {
+  return e + "_GOLDENKIDS." + i;
+  // return goldenkids_member() ? e + "_GOLDENKIDS." + i : e + "_GOLDENKIDS." + i;
+}
 
 // // function GameLuyenTu(e) {
 // //   var i,

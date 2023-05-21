@@ -563,8 +563,6 @@ $(document).ready(function () {
           $("#area_evocab").html(_res);
           console.log(data_vocab.type);
           if (data_vocab.type) {
-            console.log(111, data_vocab.url_data + data_vocab.video_link);
-
             var flvvideolink = getLinkGoldenKids(
               data_vocab.url_data + data_vocab.video_link,
               "flv"

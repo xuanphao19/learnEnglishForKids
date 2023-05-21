@@ -5,16 +5,14 @@
       format("embedded-opentype"),
     url("//goldenkids-data.tienganh123.com/file/learn/child/dungchung/lib_new_en/kids_lib/fonts/Myriadpro.ttf")
       format("truetype");
-}
+} */
 @font-face {
   font-family: roboto;
-  src: url("//goldenkids-data.tienganh123.com/file/learn/child/dungchung/lib_new_en/kids_lib/fonts/roboto.eot");
-  src: url("//goldenkids-data.tienganh123.com/file/learn/child/dungchung/lib_new_en/kids_lib/fonts/roboto.eot?#iefix")
-      format("embedded-opentype"),
-    url("//goldenkids-data.tienganh123.com/file/learn/child/dungchung/lib_new_en/kids_lib/fonts/roboto.ttf")
-      format("truetype");
+  src: url("./fonts/roboto.eot");
+  src: url("./fonts/roboto.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/roboto.ttf")  format("truetype");
 }
-
+/*
 @font-face {
   font-family: Androgyne;
   src: url("//goldenkids-data.tienganh123.com/file/learn/child/dungchung/lib_new_en/kids_lib/fonts/Androgyne.eot");

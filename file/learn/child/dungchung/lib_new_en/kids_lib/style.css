@@ -2368,9 +2368,6 @@ div.jp-video a.jp-pause {
   text-align: center;
 }
 
-.gks_tran_status_untran {
-}
-
 .gks_tran_status.gks_tran_status_active .gks_tran_status_untran {
   display: none;
 }
@@ -2510,9 +2507,6 @@ div.jp-video a.jp-pause {
   color: #3da532;
 }
 
-.kll .kll0 {
-}
-
 .kll .kll0_info {
   padding: 20px;
 }
@@ -2588,10 +2582,6 @@ div.jp-video a.jp-pause {
   margin: auto;
 }
 
-/*kll1*/
-.kll .kll1 {
-}
-
 .kll .kll1_ct {
   display: none;
 }
@@ -2600,10 +2590,6 @@ div.jp-video a.jp-pause {
   width: 100%;
   height: 100%;
   text-align: center;
-}
-
-/*kll2*/
-.kll .kll2 {
 }
 
 /*out line*/
@@ -2795,10 +2781,6 @@ div.jp-video a.jp-pause {
   background-image: none !important;
 }
 
-.kll .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
-.kll .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar:hover {
-}
-
 .kll .mCSB_scrollTools .mCSB_dragger {
   z-index: 1;
 }
@@ -2924,9 +2906,6 @@ div.jp-video a.jp-pause {
   display: none;
 }
 
-.kll .kll_result_icon_active {
-}
-
 .kll .kll_info {
   height: 425px;
   padding: 20px 10px 20px 20px;
@@ -2985,9 +2964,6 @@ div.jp-video a.jp-pause {
   background: #fff none repeat scroll 0 0;
 }
 
-.klp .klp0 {
-}
-
 .klp .klp0_lesson_name {
   color: #3da532;
   font-family: roboto;
@@ -3040,27 +3016,11 @@ div.jp-video a.jp-pause {
   font-weight: bold;
 }
 
-.klp .klp0_total_question {
-}
-
-.klp .klp0_score_max {
-}
-
-.klp .klp0_min_percent {
-}
-
-.klp .klp0_min_score {
-}
-
 .klp .klp_bottom {
   background-color: #ffe8ba;
   border-top: 2px solid #ef7f03;
   height: 54px;
   width: 100%;
-}
-
-/*klp1*/
-.klp .klp1 {
 }
 
 .klp .klp1_ct {
@@ -3071,10 +3031,6 @@ div.jp-video a.jp-pause {
   width: 100%;
   height: 100%;
   text-align: center;
-}
-
-/*klp2*/
-.klp .klp2 {
 }
 
 .klp .klp2_title {
@@ -3339,10 +3295,6 @@ div.jp-video a.jp-pause {
   background-image: none !important;
 }
 
-.klp .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
-.klp .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar:hover {
-}
-
 .klp .mCSB_scrollTools .mCSB_dragger {
   z-index: 1;
 }
@@ -3560,9 +3512,6 @@ div.jp-video a.jp-pause {
   background-position: center center;
   background-repeat: no-repeat;
   display: none;
-}
-
-.klp .klp_result_icon_active {
 }
 
 .klp .klp_info {
