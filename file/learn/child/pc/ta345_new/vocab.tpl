@@ -63,6 +63,6 @@
     </div>
 </div>
 <script type="text/javascript">
-    $.getScript("/file/learn/child/dungchung/lib_new_en/videojs/videojs.js");
-    $.getScript("/file/learn/child/pc/record/record.js");
+    $.getScript("./file/learn/child/dungchung/lib_new_en/videojs/videojs.js");
+    $.getScript("./file/learn/child/pc/record/record.js");
 </script>

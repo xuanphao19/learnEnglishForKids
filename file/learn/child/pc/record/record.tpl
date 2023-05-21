@@ -22,9 +22,9 @@
             </div>
         </div>
     </div>
-    
+
     <div class="ge" id="kr_tresult">Bạn làm rất tốt, lần sau cố đạt 100% nhé!</div>
-    
+
     <div class="ge" id="kr_arbutton">
         <div class="ge" id="krb_arrecord">
             <div class="ge" id="krbre_icon"></div>
@@ -43,4 +43,4 @@
     <div class="ge" id="kr_araudio">
         <div class="ge" id="kr_audio" src=""></div>
     </div>
-<!-- end record new -->
+<!-- end record new 12345 Ok con chắm cỏ-->
