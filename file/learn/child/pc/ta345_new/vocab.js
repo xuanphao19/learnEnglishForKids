@@ -507,7 +507,8 @@ $(document).ready(function () {
   // import css file
   var head = document.getElementsByTagName("head")[0];
   var files = [
-    "./file/learn/child/dungchung/lib_new_en/kids_lib/style.css",
+    // /file/learn/child/dungchung/lib_new_en/kids_lib/style.css
+    //"./file/learn/child/dungchung/lib_new_en/kids_lib/style.css",
     "//noidung.tienganh123.com/file/common/lesson/css/lesson.css",
     "./file/learn/child/pc/ta345_new/vocab.css",
     "./file/learn/child/pc/record/record.css",
@@ -544,9 +545,9 @@ $(document).ready(function () {
       if (window.sk_detect_get_json) {
         clearTimeout(window.sk_detect_get_json);
       }
-      //temp 1 .github.io/file/learn/child/dungchung/lib_new_en/kids_lib/style.css
+
       $.ajax({
-        url: "../../../../learn/child/pc/ta345_new/vocab.tpl",
+        url: "./file/learn/child/pc/ta345_new/vocab.tpl",
         type: "GET",
         timeout: 15000,
         start: function () {},
