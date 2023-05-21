@@ -152,7 +152,8 @@ function fnReloadFunctionSystem() {
       );
     } else {
       $.getScript(
-        "//www.tienganh123.com/file/common/libAudio/js/audioShort.js",
+        // "//www.tienganh123.com/file/common/libAudio/js/audioShort.js",
+        "./file/common/libAudio/js/audioShort.js",
         function () {
           $("#ubaPlayer").ubaPlayer({
             codecs: [{ name: "MP3", codec: "audio/mpeg;" }],
@@ -163,7 +164,7 @@ function fnReloadFunctionSystem() {
     }
   }
 
-  // record
+  // record  ./file/learn/child/pc/record/record.tpl",
   if ($.browser.chrome) {
     $.ajax({
       url: "./file/learn/child/pc/record/record.tpl",

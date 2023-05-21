@@ -128,11 +128,11 @@
 // //   // return null != e ? !0 : !1;
 // //   return null != e ? 1 : 1;
 // // }
-// // function paidmember() {
-// //   var e = document.getElementById("paid_member");
-// //   // return null != e ? !0 : !1;
-// //   return null != e ? 1 : 1;
-// // }
+function paidmember() {
+  var e = document.getElementById("paid_member");
+  // return null != e ? !0 : !1;
+  return null != e ? 1 : 1;
+}
 
 // // function show_download() {
 // //   var e =
@@ -821,25 +821,26 @@ function getLinkGoldenKids(e, i) {
   // return goldenkids_member() ? e + "_GOLDENKIDS." + i : e + "_GOLDENKIDS." + i;
 }
 
-// // function GameLuyenTu(e) {
-// //   var i,
-// //     n = "/file/game/game_luyentu/vip/game_vip.html?",
-// //     t = "/file/game/game_luyentu/none_vip/game_none_vipkid.html?";
-// //   paidmember() || goldenkids_member()
-// //     ? ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540))
-// //     : ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540));
-// // }
+function GameLuyenTu(e) {
+  var i,
+    n = "/file/game/game_luyentu/vip/game_vip.html?",
+    t = "/file/game/game_luyentu/vip/game_vipkid.html?";
+  paidmember() || goldenkids_member()
+    ? ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540))
+    : ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540));
+}
 
-// function GamePhatAm(e) {
-//   var i,
-//     n = "/file/game/game_phatam/vip/game_vip.html?",
-//     t = "/file/game/game_phatam/none_vip/game_vip.html?";
-//   // t = "/file/game/game_phatam/none_vip/game_none_vip.html?";
-//   return (i = e + "_VIP.xml"), writeIframe(n + i, 720, 540);
-//   // paidmember() || goldenkids_member()
-//   //   ? ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540))
-//   //   : ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540));
-// }
+function GamePhatAm(e) {
+  var i,
+    n = "/file/game/game_phatam/vip/game_vip.html?",
+    t = "/file/game/game_phatam/vip/game_vip.html?";
+  // t = "/file/game/game_phatam/none_vip/game_none_vip.html?";
+  console.log(1111111123, e);
+  return (i = e + "_VIP.xml"), writeIframe(n + i, 720, 540);
+  // paidmember() || goldenkids_member()
+  //   ? ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540))
+  //   : ((i = e + "_VIP.xml"), writeIframe(n + i, 720, 540));
+}
 // // function GameSpellingBee(e) {
 // //   var i,
 // //     n = "/file/game/game_SpellingBee/vip/game_vip.html?",
