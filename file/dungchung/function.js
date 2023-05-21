@@ -1068,20 +1068,35 @@ function GamePhatAm(e) {
 //   (hiendich.new_bgColor = "yellow"),
 //   (document.onmousemove = handlerMM);
 // var server_youtube = !0,
-//   video_player_id = 1;
+//   video_player_id = 1; scrollTop
 
 //Back Top
-$("#tops").hover(
-  function () {
-    $(this).css(
-      "background",
-      "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -220px -455px transparent"
-    );
-  },
-  function () {
-    $(this).css(
-      "background",
-      "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -170px -455px transparent"
-    );
-  }
-);
+$(document).ready(function () {
+  $("#contents").append("<div title='Trở lên trên' id='tops'>Top</div>");
+  $(window).scroll(function () {
+    var top =
+      (document.documentElement && document.documentElement.scrollTop) ||
+      document.body.scrollTop;
+    if (top >= 300) {
+      $("#tops").fadeIn();
+    } else $("#tops").fadeOut();
+  });
+  $("#tops").live("click", function () {
+    $("html, body").animate({ scrollTop: 0 }, 800);
+  });
+
+  $("#tops").hover(
+    function () {
+      $(this).css(
+        "background",
+        "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -220px -455px transparent"
+      );
+    },
+    function () {
+      $(this).css(
+        "background",
+        "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -170px -455px transparent"
+      );
+    }
+  );
+});

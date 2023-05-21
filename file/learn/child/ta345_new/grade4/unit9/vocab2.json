@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 9 – What are they doing?",
+  "video_link": "video/grade4/unit9/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "paint a mask",
+      "vi": "vẽ mặt nạ",
+      "time": "0.41",
+      "img_link": "img/grade4/unit9/vocab2/paintamask.png",
+      "audio_link": "audio/grade4/unit9/vocab2/paintamask"
+    },
+    {
+      "en": "read a text",
+      "vi": "đọc đoạn văn",
+      "time": "1.43",
+      "img_link": "img/grade4/unit9/vocab2/readatext.png",
+      "audio_link": "audio/grade4/unit9/vocab2/readatext"
+    },
+    {
+      "en": "do exercise",
+      "vi": "tập thể dục",
+      "time": "2.28",
+      "img_link": "img/grade4/unit9/vocab2/doexercise.png",
+      "audio_link": "audio/grade4/unit9/vocab2/doexercise"
+    },
+    {
+      "en": "have a break",
+      "vi": "nghỉ giải lao",
+      "time": "3.22",
+      "img_link": "img/grade4/unit9/vocab2/haveabreak.png",
+      "audio_link": "audio/grade4/unit9/vocab2/haveabreak"
+    },
+    {
+      "en": "have fun",
+      "vi": "có nhiều niềm vui",
+      "time": "4.17",
+      "img_link": "img/grade4/unit9/vocab2/havefun.png",
+      "audio_link": "audio/grade4/unit9/vocab2/havefun"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "lesson_name": "Unit 13 – Would you like some milk?",
+  "video_link": "video/grade4/unit13/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "food",
+      "vi": "thức ăn",
+      "time": "0.37",
+      "img_link": "img/grade4/unit13/vocab1/food.png",
+      "audio_link": "audio/grade4/unit13/vocab1/food"
+    },
+    {
+      "en": "vegetable",
+      "vi": "rau",
+      "time": "1.39",
+      "img_link": "img/grade4/unit13/vocab1/vegetable.png",
+      "audio_link": "audio/grade4/unit13/vocab1/vegetable"
+    },
+    {
+      "en": "rice",
+      "vi": "cơm",
+      "time": "2.43",
+      "img_link": "img/grade4/unit13/vocab1/rice.png",
+      "audio_link": "audio/grade4/unit13/vocab1/rice"
+    },
+    {
+      "en": "noodles",
+      "vi": "mì",
+      "time": "3.37",
+      "img_link": "img/grade4/unit13/vocab1/noodles.png",
+      "audio_link": "audio/grade4/unit13/vocab1/noodles"
+    },
+    {
+      "en": "bread",
+      "vi": "bánh mì",
+      "time": "4.49",
+      "img_link": "img/grade4/unit13/vocab1/bread.png",
+      "audio_link": "audio/grade4/unit13/vocab1/bread"
+    },
+    {
+      "en": "favourite",
+      "homo": ["favorite"],
+      "vi": "ưa thích",
+      "time": "5.47",
+      "img_link": "img/grade4/unit13/vocab1/favorite.png",
+      "audio_link": "audio/grade4/unit13/vocab1/favorite"
+    }
+  ]
+}

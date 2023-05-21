@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 8 – What subject do you have today?",
+  "video_link": "video/grade4/unit8/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "subject",
+      "vi": "môn học",
+      "time": "0.44",
+      "img_link": "img/grade4/unit8/vocab1/subject.png",
+      "audio_link": "audio/grade4/unit8/vocab1/subject"
+    },
+    {
+      "en": "Music",
+      "vi": "môn Nhạc",
+      "time": "1.47",
+      "img_link": "img/grade4/unit8/vocab1/music.png",
+      "audio_link": "audio/grade4/unit8/vocab1/music"
+    },
+    {
+      "en": "Science",
+      "vi": "môn Khoa học",
+      "time": "2.55",
+      "img_link": "img/grade4/unit8/vocab1/science.png",
+      "audio_link": "audio/grade4/unit8/vocab1/science"
+    },
+    {
+      "en": "Art",
+      "vi": "môn Mỹ thuật",
+      "time": "4.04",
+      "img_link": "img/grade4/unit8/vocab1/art.png",
+      "audio_link": "audio/grade4/unit8/vocab1/art"
+    },
+    {
+      "en": "PE",
+      "vi": "môn Giáo dục thể chất",
+      "time": "5.19",
+      "img_link": "img/grade4/unit8/vocab1/pe.png",
+      "audio_link": "audio/grade4/unit8/vocab1/pe"
+    }
+  ]
+}

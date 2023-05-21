@@ -1,0 +1,35 @@
+{
+  "lesson_name": "Unit 18 – What's your phone number?",
+  "video_link": "video/grade4/unit18/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "mobile phone",
+      "vi": "điện thoại di động",
+      "time": "0.41",
+      "img_link": "img/grade4/unit18/vocab1/mobilephone.png",
+      "audio_link": "audio/grade4/unit18/vocab1/mobilephone"
+    },
+    {
+      "en": "phone number",
+      "vi": "số điện thoại",
+      "time": "1.42",
+      "img_link": "img/grade4/unit18/vocab1/phonenumber.png",
+      "audio_link": "audio/grade4/unit18/vocab1/phonenumber"
+    },
+
+    {
+      "en": "zero",
+      "vi": "số 0",
+      "time": "2.35",
+      "img_link": "img/grade4/unit18/vocab1/zero.png",
+      "audio_link": "audio/grade4/unit18/vocab1/zero"
+    },
+    {
+      "en": "call",
+      "vi": "gọi",
+      "time": "3.49",
+      "img_link": "img/grade4/unit18/vocab1/call.png",
+      "audio_link": "audio/grade4/unit18/vocab1/call"
+    }
+  ]
+}

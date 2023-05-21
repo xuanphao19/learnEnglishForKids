@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 13 – Would you like some milk?",
+  "video_link": "video/grade4/unit13/vocab3/vocab3",
+  "new_words": [
+    {
+      "en": "drink",
+      "vi": "đồ uống",
+      "time": "0.38",
+      "img_link": "img/grade4/unit13/vocab3/drink.png",
+      "audio_link": "audio/grade4/unit13/vocab3/drink"
+    },
+    {
+      "en": "water",
+      "vi": "nước",
+      "time": "1.49",
+      "img_link": "img/grade4/unit13/vocab3/water.png",
+      "audio_link": "audio/grade4/unit13/vocab3/water"
+    },
+    {
+      "en": "milk",
+      "vi": "sữa",
+      "time": "2.58",
+      "img_link": "img/grade4/unit13/vocab3/milk.png",
+      "audio_link": "audio/grade4/unit13/vocab3/milk"
+    },
+    {
+      "en": "juice",
+      "vi": "nước trái cây",
+      "time": "4.12",
+      "img_link": "img/grade4/unit13/vocab3/juice.png",
+      "audio_link": "audio/grade4/unit13/vocab3/juice"
+    },
+    {
+      "en": "lemonade",
+      "vi": "nước chanh",
+      "time": "5.31",
+      "img_link": "img/grade4/unit13/vocab3/lemonade.png",
+      "audio_link": "audio/grade4/unit13/vocab3/lemonade"
+    }
+  ]
+}

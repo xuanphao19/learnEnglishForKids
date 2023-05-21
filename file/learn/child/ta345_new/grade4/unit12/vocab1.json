@@ -1,0 +1,49 @@
+{
+  "lesson_name": "Unit 12 – What does your father do?",
+  "video_link": "video/grade4/unit12/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "job",
+      "vi": "công việc",
+      "time": "0.46",
+      "img_link": "img/grade4/unit12/vocab1/job.png",
+      "audio_link": "audio/grade4/unit12/vocab1/job"
+    },
+    {
+      "en": "farmer",
+      "vi": "nông dân",
+      "time": "1.24",
+      "img_link": "img/grade4/unit12/vocab1/farmer.png",
+      "audio_link": "audio/grade4/unit12/vocab1/farmer"
+    },
+    {
+      "en": "driver",
+      "vi": "lái xe",
+      "time": "2.43",
+      "img_link": "img/grade4/unit12/vocab1/driver.png",
+      "audio_link": "audio/grade4/unit12/vocab1/driver"
+    },
+    {
+      "en": "worker",
+      "vi": "công nhân",
+      "time": "3.48",
+      "img_link": "img/grade4/unit12/vocab1/worker.png",
+      "audio_link": "audio/grade4/unit12/vocab1/worker"
+    },
+    {
+      "en": "doctor",
+      "homo": ["dr", "dr."],
+      "vi": "bác sĩ",
+      "time": "4.53",
+      "img_link": "img/grade4/unit12/vocab1/doctor.png",
+      "audio_link": "audio/grade4/unit12/vocab1/doctor"
+    },
+    {
+      "en": "nurse",
+      "vi": "y tá",
+      "time": "6.01",
+      "img_link": "img/grade4/unit12/vocab1/nurse.png",
+      "audio_link": "audio/grade4/unit12/vocab1/nurse"
+    }
+  ]
+}

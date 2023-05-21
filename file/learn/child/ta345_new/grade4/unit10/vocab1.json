@@ -1,0 +1,34 @@
+{
+  "lesson_name": "Unit 10 – Where were you yesterday?",
+  "video_link": "video/grade4/unit10/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "water",
+      "vi": "nước/tưới nước",
+      "time": "0.41",
+      "img_link": "img/grade4/unit10/vocab1/water.png",
+      "audio_link": "audio/grade4/unit10/vocab1/water"
+    },
+    {
+      "en": "chat",
+      "vi": "tán gẫu",
+      "time": "1.43",
+      "img_link": "img/grade4/unit10/vocab1/chat.png",
+      "audio_link": "audio/grade4/unit10/vocab1/chat"
+    },
+    {
+      "en": "yesterday",
+      "vi": "hôm qua",
+      "time": "2.35",
+      "img_link": "img/grade4/unit10/vocab1/yesterday.png",
+      "audio_link": "audio/grade4/unit10/vocab1/yesterday"
+    },
+    {
+      "en": "last",
+      "vi": "... trước",
+      "time": "3.55",
+      "img_link": "img/grade4/unit10/vocab1/last.png",
+      "audio_link": "audio/grade4/unit10/vocab1/last"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 12 – What does your father do?",
+  "video_link": "video/grade4/unit12/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "clerk",
+      "vi": "nhân viên văn phòng",
+      "time": "00.45",
+      "img_link": "img/grade4/unit12/vocab2/clerk.png",
+      "audio_link": "audio/grade4/unit12/vocab2/clerk"
+    },
+    {
+      "en": "office",
+      "vi": "văn phòng",
+      "time": "1.45",
+      "img_link": "img/grade4/unit12/vocab2/office.png",
+      "audio_link": "audio/grade4/unit12/vocab2/office"
+    },
+    {
+      "en": "field",
+      "vi": "cánh đồng",
+      "time": "2.54",
+      "img_link": "img/grade4/unit12/vocab2/field.png",
+      "audio_link": "audio/grade4/unit12/vocab2/field"
+    },
+    {
+      "en": "factory",
+      "vi": "nhà máy",
+      "time": "3.56",
+      "img_link": "img/grade4/unit12/vocab2/factory.png",
+      "audio_link": "audio/grade4/unit12/vocab2/factory"
+    },
+    {
+      "en": "hospital",
+      "vi": "bệnh viện",
+      "time": "5.03",
+      "img_link": "img/grade4/unit12/vocab2/hospital.png",
+      "audio_link": "audio/grade4/unit12/vocab2/hospital"
+    }
+  ]
+}

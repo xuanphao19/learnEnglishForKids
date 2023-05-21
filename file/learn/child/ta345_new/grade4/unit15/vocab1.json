@@ -1,0 +1,49 @@
+{
+  "lesson_name": "Unit 15 – When's children's Day?",
+  "video_link": "video/grade4/unit15/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "festival",
+      "vi": "lễ hội",
+      "time": "0.41",
+      "img_link": "img/grade4/unit15/vocab1/festival.png",
+      "audio_link": "audio/grade4/unit15/vocab1/festival"
+    },
+    {
+      "en": "Children's Day",
+      "vi": "Tết Thiếu nhi",
+      "time": "2.03",
+      "img_link": "img/grade4/unit15/vocab1/childrensday.png",
+      "audio_link": "audio/grade4/unit15/vocab1/childrensday"
+    },
+    {
+      "en": "Teachers' Day",
+      "homo": ["teachers day"],
+      "vi": "ngày Nhà giáo",
+      "time": "3.16",
+      "img_link": "img/grade4/unit15/vocab1/teachersday.png",
+      "audio_link": "audio/grade4/unit15/vocab1/teachersday"
+    },
+    {
+      "en": "Christmas",
+      "vi": "lễ Giáng sinh",
+      "time": "4.36",
+      "img_link": "img/grade4/unit15/vocab1/christmas.png",
+      "audio_link": "audio/grade4/unit15/vocab1/christmas"
+    },
+    {
+      "en": "New Year",
+      "vi": "Năm mới",
+      "time": "6.03",
+      "img_link": "img/grade4/unit15/vocab1/newyear.png",
+      "audio_link": "audio/grade4/unit15/vocab1/newyear"
+    },
+    {
+      "en": "Tet holiday",
+      "vi": "dịp Tết",
+      "time": "7.28",
+      "img_link": "img/grade4/unit15/vocab1/tetholiday.png",
+      "audio_link": "audio/grade4/unit15/vocab1/tetholiday"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 13 – Would you like some milk?",
+  "video_link": "video/grade4/unit13/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "dish",
+      "vi": "đĩa",
+      "time": "0.40",
+      "img_link": "img/grade4/unit13/vocab2/dish.png",
+      "audio_link": "audio/grade4/unit13/vocab2/dish"
+    },
+    {
+      "en": "chicken",
+      "vi": "gà, thịt gà",
+      "time": "1.37",
+      "img_link": "img/grade4/unit13/vocab2/chicken.png",
+      "audio_link": "audio/grade4/unit13/vocab2/chicken"
+    },
+    {
+      "en": "beef",
+      "vi": "thịt bò",
+      "time": "2.36",
+      "img_link": "img/grade4/unit13/vocab2/beef.png",
+      "audio_link": "audio/grade4/unit13/vocab2/beef"
+    },
+    {
+      "en": "fish",
+      "vi": "cá, món cá",
+      "time": "3.37",
+      "img_link": "img/grade4/unit13/vocab2/fish.png",
+      "audio_link": "audio/grade4/unit13/vocab2/fish"
+    },
+    {
+      "en": "pork",
+      "vi": "thịt lợn",
+      "time": "4.37",
+      "img_link": "img/grade4/unit13/vocab2/pork.png",
+      "audio_link": "audio/grade4/unit13/vocab2/pork"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "lesson_name": "Unit 7 – What do you like doing?",
+  "video_link": "video/grade4/unit7/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "collect stamps",
+      "vi": "sưu tập tem thư",
+      "time": "0.48",
+      "img_link": "img/grade4/unit7/vocab1/collectstamps.png",
+      "audio_link": "audio/grade4/unit7/vocab1/collectstamps"
+    },
+    {
+      "en": "play a drum",
+      "vi": "chơi trống",
+      "time": "1.36",
+      "img_link": "img/grade4/unit7/vocab1/playadrum.png",
+      "audio_link": "audio/grade4/unit7/vocab1/playadrum"
+    },
+    {
+      "en": "read comic books",
+      "vi": "đọc truyện tranh",
+      "time": "2.39",
+      "img_link": "img/grade4/unit7/vocab1/readcomicbooks.png",
+      "audio_link": "audio/grade4/unit7/vocab1/readcomicbooks"
+    },
+    {
+      "en": "take photographs",
+      "vi": "chụp ảnh",
+      "time": "3.50",
+      "img_link": "img/grade4/unit7/vocab1/takephotographs.png",
+      "audio_link": "audio/grade4/unit7/vocab1/takephotographs"
+    },
+    {
+      "en": "sail a boat",
+      "homo": ["sale a boat"],
+      "vi": "đi chèo thuyền",
+      "time": "4.52",
+      "img_link": "img/grade4/unit7/vocab1/sailaboat.png",
+      "audio_link": "audio/grade4/unit7/vocab1/sailaboat"
+    },
+    {
+      "en": "fly in a plane",
+      "vi": "đi máy bay",
+      "time": "5.48",
+      "img_link": "img/grade4/unit7/vocab1/flyinaplane.png",
+      "audio_link": "audio/grade4/unit7/vocab1/flyinaplane"
+    }
+  ]
+}

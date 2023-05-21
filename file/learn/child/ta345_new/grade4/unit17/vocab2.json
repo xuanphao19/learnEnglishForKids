@@ -1,0 +1,43 @@
+{
+  "lesson_name": "Unit 17 – How much is the T-shirt?",
+  "video_link": "video/grade4/unit17/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "trousers",
+      "vi": "quần",
+      "time": "0.34",
+      "img_link": "img/grade4/unit17/vocab2/trousers.png",
+      "audio_link": "audio/grade4/unit17/vocab2/trousers"
+    },
+
+    {
+      "en": "jeans",
+      "vi": "quần bò",
+      "time": "1.35",
+      "img_link": "img/grade4/unit17/vocab2/jeans.png",
+      "audio_link": "audio/grade4/unit17/vocab2/jeans"
+    },
+    {
+      "en": "skirt",
+      "vi": "chân váy",
+      "time": "2.37",
+      "img_link": "img/grade4/unit17/vocab2/skirt.png",
+      "audio_link": "audio/grade4/unit17/vocab2/skirt"
+    },
+
+    {
+      "en": "blouse",
+      "vi": "áo cánh",
+      "time": "3.39",
+      "img_link": "img/grade4/unit17/vocab2/blouse.png",
+      "audio_link": "audio/grade4/unit17/vocab2/blouse"
+    },
+    {
+      "en": "jacket",
+      "vi": "áo khoác",
+      "time": "4.32",
+      "img_link": "img/grade4/unit17/vocab2/jacket.png",
+      "audio_link": "audio/grade4/unit17/vocab2/jacket"
+    }
+  ]
+}

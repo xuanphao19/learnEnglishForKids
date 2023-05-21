@@ -1,0 +1,42 @@
+{
+  "lesson_name": "Unit 17 – How much is the T-shirt?",
+  "video_link": "video/grade4/unit17/vocab3/vocab3",
+  "new_words": [
+    {
+      "en": "shirt",
+      "vi": "áo sơ mi",
+      "time": "0.36",
+      "img_link": "img/grade4/unit17/vocab3/shirt.png",
+      "audio_link": "audio/grade4/unit17/vocab3/shirt"
+    },
+    {
+      "en": "T-shirt",
+      "vi": "áo phông cộc tay",
+      "time": "1.37",
+      "img_link": "img/grade4/unit17/vocab3/tshirt.png",
+      "audio_link": "audio/grade4/unit17/vocab3/tshirt"
+    },
+    {
+      "en": "jumper",
+      "vi": "áo len",
+      "time": "2.34",
+      "img_link": "img/grade4/unit17/vocab3/jumper.png",
+      "audio_link": "audio/grade4/unit17/vocab3/jumper"
+    },
+    {
+      "en": "scarf",
+      "vi": "khăn quàng cổ",
+      "time": "3.25",
+      "img_link": "img/grade4/unit17/vocab3/scarf.png",
+      "audio_link": "audio/grade4/unit17/vocab3/scarf"
+    },
+
+    {
+      "en": "cap",
+      "vi": "mũ lưỡi trai",
+      "time": "4.25",
+      "img_link": "img/grade4/unit17/vocab3/cap.png",
+      "audio_link": "audio/grade4/unit17/vocab3/cap"
+    }
+  ]
+}

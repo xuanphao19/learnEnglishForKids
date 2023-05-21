@@ -1,0 +1,74 @@
+{
+  "lesson_name": "Unit 15 – When's children's Day?",
+  "video_link": "video/grade4/unit15/vocab3/vocab3",
+  "video_words": [
+    {
+      "en": "wear new clothes",
+      "vi": "mặc quần áo mới",
+      "time": "0.47"
+    },
+    {
+      "en": "eat fruit and cakes",
+      "vi": "ăn hoa quả và bánh ngọt",
+      "time": "1.32"
+    },
+    {
+      "en": "decorate the house",
+      "vi": "trang trí nhà cửa",
+      "time": "2.51"
+    },
+    {
+      "en": "make banh chung",
+      "vi": "gói bánh chưng",
+      "time": "4.01"
+    },
+    {
+      "en": "get lucky money",
+      "vi": "nhận tiền mừng tuổi",
+      "time": "4.59"
+    },
+    {
+      "en": "watch firework displays",
+      "vi": "xem bắn pháo hoa",
+      "time": "5.56"
+    }
+  ],
+  "new_words": [
+    {
+      "en": "wear new clothes",
+      "vi": "mặc quần áo mới",
+      "img_link": "img/grade4/unit15/vocab3/wearnewclothes.png",
+      "audio_link": "audio/grade4/unit15/vocab3/wearnewclothes"
+    },
+    {
+      "en": "eat fruit and cakes",
+      "vi": "ăn hoa quả và bánh ngọt",
+      "img_link": "img/grade4/unit15/vocab3/eatfruitandcakes.png",
+      "audio_link": "audio/grade4/unit15/vocab3/eatfruitandcakes"
+    },
+    {
+      "en": "decorate the house",
+      "vi": "trang trí nhà cửa",
+      "img_link": "img/grade4/unit15/vocab3/decoratethehouse.png",
+      "audio_link": "audio/grade4/unit15/vocab3/decoratethehouse"
+    },
+    {
+      "en": "make",
+      "vi": "làm",
+      "img_link": "img/grade4/unit15/vocab3/makebanhchung.png",
+      "audio_link": "audio/grade4/unit15/vocab3/make"
+    },
+    {
+      "en": "get lucky money",
+      "vi": "nhận tiền mừng tuổi",
+      "img_link": "img/grade4/unit15/vocab3/getluckymoney.png",
+      "audio_link": "audio/grade4/unit15/vocab3/getluckymoney"
+    },
+    {
+      "en": "watch firework displays",
+      "vi": "xem bắn pháo hoa",
+      "img_link": "img/grade4/unit15/vocab3/watchfireworkdisplays.png",
+      "audio_link": "audio/grade4/unit15/vocab3/watchfireworkdisplays"
+    }
+  ]
+}

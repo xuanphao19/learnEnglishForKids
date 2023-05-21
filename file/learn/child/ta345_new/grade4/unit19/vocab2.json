@@ -1,0 +1,42 @@
+{
+  "lesson_name": "Unit 19 – What animal do you want to see?",
+  "video_link": "video/grade4/unit19/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "zebra",
+      "vi": "con ngựa vằn",
+      "time": "0.39",
+      "img_link": "img/grade4/unit19/vocab2/zebra.png",
+      "audio_link": "audio/grade4/unit19/vocab2/zebra"
+    },
+    {
+      "en": "elephant",
+      "vi": "con voi",
+      "time": "1.36",
+      "img_link": "img/grade4/unit19/vocab2/elephant.png",
+      "audio_link": "audio/grade4/unit19/vocab2/elephant"
+    },
+
+    {
+      "en": "monkey",
+      "vi": "con khỉ",
+      "time": "2.56",
+      "img_link": "img/grade4/unit19/vocab2/monkey.png",
+      "audio_link": "audio/grade4/unit19/vocab2/monkey"
+    },
+    {
+      "en": "kangaroo",
+      "vi": "con chuột túi",
+      "time": "4.02",
+      "img_link": "img/grade4/unit19/vocab2/kangaroo.png",
+      "audio_link": "audio/grade4/unit19/vocab2/kangaroo"
+    },
+    {
+      "en": "funny",
+      "vi": "buồn cười",
+      "time": "5.22",
+      "img_link": "img/grade4/unit19/vocab2/funny.png",
+      "audio_link": "audio/grade4/unit19/vocab2/funny"
+    }
+  ]
+}

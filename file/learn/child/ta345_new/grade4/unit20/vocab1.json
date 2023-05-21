@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 20 – What are you going to do this summer?",
+  "video_link": "video/grade4/unit20/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "summer",
+      "vi": "mùa hè",
+      "time": "0.42",
+      "img_link": "img/grade4/unit20/vocab1/summer.png",
+      "audio_link": "audio/grade4/unit20/vocab1/summer"
+    },
+    {
+      "en": "summer holidays",
+      "vi": "kì nghỉ hè",
+      "time": "1.50",
+      "img_link": "img/grade4/unit20/vocab1/summerholidays.png",
+      "audio_link": "audio/grade4/unit20/vocab1/summerholidays"
+    },
+    {
+      "en": "stay",
+      "vi": "ở",
+      "time": "2.45",
+      "img_link": "img/grade4/unit20/vocab1/stay.png",
+      "audio_link": "audio/grade4/unit20/vocab1/stay"
+    },
+    {
+      "en": "hotel",
+      "vi": "khách sạn",
+      "time": "3.43",
+      "img_link": "img/grade4/unit20/vocab1/hotel.png",
+      "audio_link": "audio/grade4/unit20/vocab1/hotel"
+    },
+    {
+      "en": "beach",
+      "vi": "bãi biển",
+      "time": "4.33",
+      "img_link": "img/grade4/unit20/vocab1/beach.png",
+      "audio_link": "audio/grade4/unit20/vocab1/beach"
+    }
+  ]
+}

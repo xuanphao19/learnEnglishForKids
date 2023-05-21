@@ -1,0 +1,43 @@
+{
+  "lesson_name": "Unit 19 – What animal do you want to see?",
+  "video_link": "video/grade4/unit19/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "animal",
+      "vi": "động vật",
+      "time": "0.58",
+      "img_link": "img/grade4/unit19/vocab1/animal.png",
+      "audio_link": "audio/grade4/unit19/vocab1/animal"
+    },
+    {
+      "en": "bear",
+      "vi": "con gấu",
+      "time": "2.05",
+      "img_link": "img/grade4/unit19/vocab1/bear.png",
+      "audio_link": "audio/grade4/unit19/vocab1/bear"
+    },
+
+    {
+      "en": "tiger",
+      "vi": "con hổ",
+      "time": "3.02",
+      "img_link": "img/grade4/unit19/vocab1/tiger.png",
+      "audio_link": "audio/grade4/unit19/vocab1/tiger"
+    },
+    {
+      "en": "crocodile",
+      "vi": "con cá sấu",
+      "time": "4.00",
+      "img_link": "img/grade4/unit19/vocab1/crocodile.png",
+      "audio_link": "audio/grade4/unit19/vocab1/crocodile"
+    },
+
+    {
+      "en": "scary",
+      "vi": "sợ hãi",
+      "time": "4.58",
+      "img_link": "img/grade4/unit19/vocab1/scary.png",
+      "audio_link": "audio/grade4/unit19/vocab1/scary"
+    }
+  ]
+}

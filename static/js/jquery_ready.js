@@ -378,21 +378,7 @@ $(document).ready(function () {
       $("#fakepassword").show();
     }
   });
-  //Back Top
-  $("#contents").append("<div title='Trở lên trên' id='tops'>Top</div>");
-
-  $(window).scroll(function () {
-    var top =
-      (document.documentElement && document.documentElement.scrollTop) ||
-      document.body.scrollTop;
-    if (top != 0) {
-      $("#tops").fadeIn();
-    } else $("#tops").fadeOut();
-  });
-  $("#tops").live("click", function () {
-    $("html, body").animate({ scrollTop: 0 }, 800);
-  });
-
+  
   //Seting No no_arown
   $(".no_arown").hover(function () {
     $(this).find("div").css("display", "none");

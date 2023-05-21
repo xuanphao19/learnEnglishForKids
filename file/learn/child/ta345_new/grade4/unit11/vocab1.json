@@ -1,0 +1,86 @@
+{
+  "lesson_name": "Unit 11 – What time is it?",
+  "video_link": "video/grade4/unit11/vocab1/vocab1",
+  "video_words": [
+    {
+      "en": "time",
+      "vi": "thời gian",
+      "time": "0.53"
+    },
+    {
+      "en": "get up",
+      "vi": "ngủ dậy",
+      "time": "2.20"
+    },
+    {
+      "en": "have breakfast/ lunch/ dinner",
+      "vi": "ăn sáng/ trưa/ tối",
+      "time": "3.17"
+    },
+    {
+      "en": "go to school",
+      "vi": "đi học",
+      "time": "5.04"
+    },
+    {
+      "en": "go home",
+      "vi": "về nhà",
+      "time": "6.06"
+    },
+    {
+      "en": "go to bed",
+      "vi": "đi ngủ",
+      "time": "7.13"
+    }
+  ],
+  "new_words": [
+    {
+      "en": "time",
+      "vi": "thời gian",
+      "img_link": "img/grade4/unit11/vocab1/time.png",
+      "audio_link": "audio/grade4/unit11/vocab1/time"
+    },
+    {
+      "en": "get up",
+      "vi": "ngủ dậy",
+      "img_link": "img/grade4/unit11/vocab1/getup.png",
+      "audio_link": "audio/grade4/unit11/vocab1/getup"
+    },
+    {
+      "en": "have breakfast",
+      "vi": "ăn sáng",
+      "img_link": "img/grade4/unit11/vocab1/havebreakfast.png",
+      "audio_link": "audio/grade4/unit11/vocab1/havebreakfast"
+    },
+    {
+      "en": "have lunch",
+      "vi": "ăn trưa",
+      "img_link": "img/grade4/unit11/vocab1/havelunch.png",
+      "audio_link": "audio/grade4/unit11/vocab1/havelunch"
+    },
+    {
+      "en": "have dinner",
+      "vi": "ăn tối",
+      "img_link": "img/grade4/unit11/vocab1/havedinner.png",
+      "audio_link": "audio/grade4/unit11/vocab1/havedinner"
+    },
+    {
+      "en": "go to school",
+      "vi": "đi học",
+      "img_link": "img/grade4/unit11/vocab1/gotoschool.png",
+      "audio_link": "audio/grade4/unit11/vocab1/gotoschool"
+    },
+    {
+      "en": "go home",
+      "vi": "về nhà",
+      "img_link": "img/grade4/unit11/vocab1/gohome.png",
+      "audio_link": "audio/grade4/unit11/vocab1/gohome"
+    },
+    {
+      "en": "go to bed",
+      "vi": "đi ngủ",
+      "img_link": "img/grade4/unit11/vocab1/gotobed.png",
+      "audio_link": "audio/grade4/unit11/vocab1/gotobed"
+    }
+  ]
+}

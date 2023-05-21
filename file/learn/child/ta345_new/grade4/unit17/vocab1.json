@@ -1,0 +1,46 @@
+{
+  "lesson_name": "Unit 17 – How much is the T-shirt?",
+  "video_link": "video/grade4/unit17/vocab1/vocab1",
+  "video_words": [
+    {
+      "en": "how much",
+      "vi": "bao nhiêu tiền",
+      "time": "0.39"
+    },
+    {
+      "en": "thousand",
+      "vi": "nghìn",
+      "time": "1.38"
+    },
+    {
+      "en": "dong",
+      "vi": "đồng/ Việt Nam đồng",
+      "time": "2.51"
+    },
+    {
+      "en": "sales assistant",
+      "vi": "nhân viên bán hàng",
+      "time": "3.47"
+    }
+  ],
+  "new_words": [
+    {
+      "en": "how much",
+      "vi": "bao nhiêu tiền",
+      "img_link": "img/grade4/unit17/vocab1/howmuch.png",
+      "audio_link": "audio/grade4/unit17/vocab1/howmuch"
+    },
+    {
+      "en": "thousand",
+      "vi": "nghìn",
+      "img_link": "img/grade4/unit17/vocab1/thousand.png",
+      "audio_link": "audio/grade4/unit17/vocab1/thousand"
+    },
+    {
+      "en": "sales assistant",
+      "vi": "nhân viên bán hàng",
+      "img_link": "img/grade4/unit17/vocab1/saleassistant.png",
+      "audio_link": "audio/grade4/unit17/vocab1/saleassistant"
+    }
+  ]
+}

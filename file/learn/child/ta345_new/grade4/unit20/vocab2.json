@@ -1,0 +1,42 @@
+{
+  "lesson_name": "Unit 20 – What are you going to do this summer?",
+  "video_link": "video/grade4/unit20/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "sea",
+      "homo": ["see"],
+      "vi": "biển",
+      "time": "0.52",
+      "img_link": "img/grade4/unit20/vocab2/sea.png",
+      "audio_link": "audio/grade4/unit20/vocab2/sea"
+    },
+    {
+      "en": "seafood",
+      "vi": "hải sản",
+      "time": "1.55",
+      "img_link": "img/grade4/unit20/vocab2/seafood.png",
+      "audio_link": "audio/grade4/unit20/vocab2/seafood"
+    },
+    {
+      "en": "delicious",
+      "vi": "ngon",
+      "time": "2.51",
+      "img_link": "img/grade4/unit20/vocab2/delicious.png",
+      "audio_link": "audio/grade4/unit20/vocab2/delicious"
+    },
+    {
+      "en": "build a sandcastle",
+      "vi": "xây lâu đài cát",
+      "time": "3.57",
+      "img_link": "img/grade4/unit20/vocab2/buildasandcastle.png",
+      "audio_link": "audio/grade4/unit20/vocab2/buildasandcastle"
+    },
+    {
+      "en": "go on a boat cruise",
+      "vi": "đi du thuyền",
+      "time": "4.58",
+      "img_link": "img/grade4/unit20/vocab2/goonaboatcruise.png",
+      "audio_link": "audio/grade4/unit20/vocab2/goonaboatcruise"
+    }
+  ]
+}

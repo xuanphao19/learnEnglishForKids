@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 6 – Where's your school?",
+  "video_link": "video/grade4/unit6/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "district",
+      "vi": "quận, huyện",
+      "time": "0.26",
+      "img_link": "img/grade4/unit6/vocab1/district.png",
+      "audio_link": "audio/grade4/unit6/vocab1/district"
+    },
+    {
+      "en": "primary school",
+      "vi": "trường tiểu học",
+      "time": "1.56",
+      "img_link": "img/grade4/unit6/vocab1/primaryschool.png",
+      "audio_link": "audio/grade4/unit6/vocab1/primaryschool"
+    },
+    {
+      "en": "street",
+      "vi": "đường phố",
+      "time": "2.58",
+      "img_link": "img/grade4/unit6/vocab1/street.png",
+      "audio_link": "audio/grade4/unit6/vocab1/street"
+    },
+    {
+      "en": "road",
+      "vi": "đường",
+      "time": "4.01",
+      "img_link": "img/grade4/unit6/vocab1/road.png",
+      "audio_link": "audio/grade4/unit6/vocab1/road"
+    },
+    {
+      "en": "village",
+      "vi": "làng",
+      "time": "4.55",
+      "img_link": "img/grade4/unit6/vocab1/village.png",
+      "audio_link": "audio/grade4/unit6/vocab1/village"
+    }
+  ]
+}

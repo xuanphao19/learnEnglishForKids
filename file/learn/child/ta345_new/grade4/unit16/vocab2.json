@@ -1,0 +1,50 @@
+{
+  "lesson_name": "Unit 16 – Let's go to the bookshop",
+  "video_link": "video/grade4/unit16/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "film",
+      "vi": "phim",
+      "time": "0.35",
+      "img_link": "img/grade4/unit16/vocab2/film.png",
+      "audio_link": "audio/grade4/unit16/vocab2/film"
+    },
+    {
+      "en": "cinema",
+      "vi": "rạp chiếu phim",
+      "time": "2.04",
+      "img_link": "img/grade4/unit16/vocab2/cinema.png",
+      "audio_link": "audio/grade4/unit16/vocab2/cinema"
+    },
+
+    {
+      "en": "bookshop",
+      "homo": ["book shop"],
+      "vi": "cửa hàng sách",
+      "time": "2.50",
+      "img_link": "img/grade4/unit16/vocab2/bookshop.png",
+      "audio_link": "audio/grade4/unit16/vocab2/bookshop"
+    },
+    {
+      "en": "supermarket",
+      "vi": "siêu thị",
+      "time": "3.50",
+      "img_link": "img/grade4/unit16/vocab2/supermarket.png",
+      "audio_link": "audio/grade4/unit16/vocab2/supermarket"
+    },
+    {
+      "en": "hungry",
+      "vi": "đói",
+      "time": "4.57",
+      "img_link": "img/grade4/unit16/vocab2/hungry.png",
+      "audio_link": "audio/grade4/unit16/vocab2/hungry"
+    },
+    {
+      "en": "busy",
+      "vi": "bận",
+      "time": "6.00",
+      "img_link": "img/grade4/unit16/vocab2/busy.png",
+      "audio_link": "audio/grade4/unit16/vocab2/busy"
+    }
+  ]
+}

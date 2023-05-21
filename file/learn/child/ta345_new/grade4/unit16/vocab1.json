@@ -1,0 +1,55 @@
+{
+  "lesson_name": "Unit 16 – Let's go to the bookshop",
+  "video_link": "video/grade4/unit16/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "sweet",
+      "vi": "kẹo",
+      "time": "0.42",
+      "img_link": "img/grade4/unit16/vocab1/sweet.png",
+      "audio_link": "audio/grade4/unit16/vocab1/sweet"
+    },
+    {
+      "en": "sweet shop",
+      "vi": "cửa hàng kẹo",
+      "time": "1.40",
+      "img_link": "img/grade4/unit16/vocab1/sweetshop.png",
+      "audio_link": "audio/grade4/unit16/vocab1/sweetshop"
+    },
+    {
+      "en": "chocolate",
+      "vi": "sô-cô-la",
+      "time": "2.37",
+      "img_link": "img/grade4/unit16/vocab1/chocolate.png",
+      "audio_link": "audio/grade4/unit16/vocab1/chocolate"
+    },
+    {
+      "en": "bakery",
+      "vi": "cửa hàng bánh",
+      "time": "3.31",
+      "img_link": "img/grade4/unit16/vocab1/bakery.png",
+      "audio_link": "audio/grade4/unit16/vocab1/bakery"
+    },
+    {
+      "en": "medicine",
+      "vi": "thuốc",
+      "time": "4.25",
+      "img_link": "img/grade4/unit16/vocab1/medicine.png",
+      "audio_link": "audio/grade4/unit16/vocab1/medicine"
+    },
+    {
+      "en": "pharmacy",
+      "vi": "hiệu thuốc",
+      "time": "5.10",
+      "img_link": "img/grade4/unit16/vocab1/pharmacy.png",
+      "audio_link": "audio/grade4/unit16/vocab1/pharmacy"
+    },
+    {
+      "en": "swimming pool",
+      "vi": "bể bơi",
+      "time": "5.52",
+      "img_link": "img/grade4/unit16/vocab1/swimmingpool.png",
+      "audio_link": "audio/grade4/unit16/vocab1/swimmingpool"
+    }
+  ]
+}

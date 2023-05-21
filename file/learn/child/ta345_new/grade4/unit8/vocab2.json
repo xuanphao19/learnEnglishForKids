@@ -1,0 +1,34 @@
+{
+  "lesson_name": "Unit 8 – What subject do you have today?",
+  "video_link": "video/grade4/unit8/vocab2/vocab2",
+  "new_words": [
+    {
+      "en": "Vietnamese",
+      "vi": "môn Tiếng Việt",
+      "time": "0.39",
+      "img_link": "img/grade4/unit8/vocab2/vietnamese.png",
+      "audio_link": "audio/grade4/unit8/vocab2/vietnamese"
+    },
+    {
+      "en": "English",
+      "vi": "môn Tiếng Anh",
+      "time": "1.47",
+      "img_link": "img/grade4/unit8/vocab2/english.png",
+      "audio_link": "audio/grade4/unit8/vocab2/english"
+    },
+    {
+      "en": "Maths",
+      "vi": "môn Toán",
+      "time": "2.56",
+      "img_link": "img/grade4/unit8/vocab2/maths.png",
+      "audio_link": "audio/grade4/unit8/vocab2/maths"
+    },
+    {
+      "en": "IT",
+      "vi": "môn Tin học",
+      "time": "4.14",
+      "img_link": "img/grade4/unit8/vocab2/it.png",
+      "audio_link": "audio/grade4/unit8/vocab2/it"
+    }
+  ]
+}

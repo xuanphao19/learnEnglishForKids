@@ -1,0 +1,41 @@
+{
+  "lesson_name": "Unit 19 – What animal do you want to see?",
+  "video_link": "video/grade4/unit19/vocab3/vocab3",
+  "new_words": [
+    {
+      "en": "fast",
+      "vi": "nhanh",
+      "time": "0.46",
+      "img_link": "img/grade4/unit19/vocab3/fast.png",
+      "audio_link": "audio/grade4/unit19/vocab3/fast"
+    },
+    {
+      "en": "friendly",
+      "vi": "thân thiện",
+      "time": "1.35",
+      "img_link": "img/grade4/unit19/vocab3/friendly.png",
+      "audio_link": "audio/grade4/unit19/vocab3/friendly"
+    },
+    {
+      "en": "wonderful",
+      "vi": "tuyệt vời",
+      "time": "2.43",
+      "img_link": "img/grade4/unit19/vocab3/wonderful.png",
+      "audio_link": "audio/grade4/unit19/vocab3/wonderful"
+    },
+    {
+      "en": "enormous",
+      "vi": "to lớn",
+      "time": "3.43",
+      "img_link": "img/grade4/unit19/vocab3/enormous.png",
+      "audio_link": "audio/grade4/unit19/vocab3/enormous"
+    },
+    {
+      "en": "beautiful",
+      "vi": "đẹp",
+      "time": "4.47",
+      "img_link": "img/grade4/unit19/vocab3/beautiful.png",
+      "audio_link": "audio/grade4/unit19/vocab3/beautiful"
+    }
+  ]
+}

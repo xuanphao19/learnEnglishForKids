@@ -1,0 +1,48 @@
+{
+  "lesson_name": "Unit 9 – What are they doing?",
+  "video_link": "video/grade4/unit9/vocab1/vocab1",
+  "new_words": [
+    {
+      "en": "make a kite",
+      "vi": "làm diều",
+      "time": "1.06",
+      "img_link": "img/grade4/unit9/vocab1/makeakite.png",
+      "audio_link": "audio/grade4/unit9/vocab1/makeakite"
+    },
+    {
+      "en": "make a puppet",
+      "vi": "làm con rối",
+      "time": "2.12",
+      "img_link": "img/grade4/unit9/vocab1/makeapuppet.png",
+      "audio_link": "audio/grade4/unit9/vocab1/makeapuppet"
+    },
+    {
+      "en": "make a paper boat",
+      "vi": "làm thuyền giấy",
+      "time": "3.30",
+      "img_link": "img/grade4/unit9/vocab1/make.png",
+      "audio_link": "audio/grade4/unit9/vocab1/makeapaperboat"
+    },
+    {
+      "en": "write a dictation",
+      "vi": "viết chính tả",
+      "time": "4.17",
+      "img_link": "img/grade4/unit9/vocab1/writeadictation.png",
+      "audio_link": "audio/grade4/unit9/vocab1/writeadictation"
+    },
+    {
+      "en": "write a letter",
+      "vi": "viết thư",
+      "time": "6.04",
+      "img_link": "img/grade4/unit9/vocab1/write.png",
+      "audio_link": "audio/grade4/unit9/vocab1/writealetter"
+    },
+    {
+      "en": "watch TV",
+      "vi": "xem ti vi",
+      "time": "7.26",
+      "img_link": "img/grade4/unit9/vocab1/watch.png",
+      "audio_link": "audio/grade4/unit9/vocab1/watchtv"
+    }
+  ]
+}
