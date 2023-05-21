@@ -167,7 +167,7 @@ function fnReloadFunctionSystem() {
   // record  ./file/learn/child/pc/record/record.tpl",
   if ($.browser.chrome) {
     $.ajax({
-      url: "./file/learn/child/pc/record/record.tpl",
+      url: "../record/record.tpl",
       type: "GET",
       timeout: 15000,
       start: function () {},

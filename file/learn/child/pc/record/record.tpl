@@ -43,4 +43,4 @@
     <div class="ge" id="kr_araudio">
         <div class="ge" id="kr_audio" src=""></div>
     </div>
-<!-- end record new 12345 Ok con chắm cỏ-->
+<!-- end record new 12345 Ok con chắm cỏ -->
