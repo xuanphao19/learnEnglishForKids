@@ -1,5 +1,5 @@
 var lesson_kid = !1;
-// /file/common/game123/js/audio_game_vs1.js
+
 $.getScript("./file/dungchung/function.js", function () {
   lesson_kid = lesson_child();
 }),

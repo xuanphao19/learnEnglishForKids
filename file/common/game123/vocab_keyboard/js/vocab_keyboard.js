@@ -315,19 +315,19 @@ var non_kid_alert =
         );
         return arr;
       },
-      // /file/common/game123/js/audio_game_vs1.js
       getAudio: function () {
-        $.getScript(
-          "../../../../../file/common/game123/js/audio_game_vs1.js",
-          function () {
-            $("#game_ubaPlayer").ubaPlayer_game({
-              audioButtonClass: "uba_ctrl",
-              codecs: [{ name: "MP3", codec: "audio/mpeg;" }],
-              playStartCallback: _PlayingAudioHide2,
-              stopCallback: _stopAudioHide2,
-            });
-          }
-        );
+        var loc_url = obj_vbkd.post_url,
+          _url = loc_url.includes("127")
+            ? "./file/common/game123/js/audio_game_vs1.js"
+            : "../../../game123/js/audio_game_vs1.js";
+        $.getScript(_url, function () {
+          $("#game_ubaPlayer").ubaPlayer_game({
+            audioButtonClass: "uba_ctrl",
+            codecs: [{ name: "MP3", codec: "audio/mpeg;" }],
+            playStartCallback: _PlayingAudioHide2,
+            stopCallback: _stopAudioHide2,
+          });
+        });
       },
       asign: function () {
         $(".ltt_key_item.active").removeClass("active");

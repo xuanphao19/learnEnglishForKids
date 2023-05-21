@@ -43,4 +43,10 @@
     <div class="ge" id="kr_araudio">
         <div class="ge" id="kr_audio" src=""></div>
     </div>
+    <script type="text/javascript">
+      $.getScript(
+        "./file/learn/child/dungchung/lib_new_en/videojs/videojs.js"
+      );
+      $.getScript("./file/learn/child/pc/record/record.js");
+    </script>
 <!-- end record new 12345 Ok con chắm cỏ -->

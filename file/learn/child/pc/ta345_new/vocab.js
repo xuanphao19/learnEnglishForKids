@@ -163,11 +163,14 @@ function fnReloadFunctionSystem() {
       );
     }
   }
-
   // record  ./file/learn/child/pc/record/record.tpl",
   if ($.browser.chrome) {
+    var loc_url = location.protocol + "//" + location.host + "/",
+      _url = loc_url.includes("127")
+        ? "./file/learn/child/pc/record/record.tpl"
+        : "../record/record.tpl";
     $.ajax({
-      url: "../../../../../file/learn/child/pc/record/record.tpl",
+      url: _url,
       type: "GET",
       timeout: 15000,
       start: function () {},
