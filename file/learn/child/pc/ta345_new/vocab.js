@@ -168,7 +168,7 @@ function fnReloadFunctionSystem() {
     var loc_url = location.protocol + "//" + location.host + "/",
       _url = loc_url.includes("127")
         ? "./file/learn/child/pc/record/record.tpl"
-        : "../record/record.tpl";
+        : "/learnEnglishForKids/file/learn/child/pc/record/record.tpl";
     $.ajax({
       url: _url,
       type: "GET",

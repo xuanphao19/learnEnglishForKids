@@ -1069,3 +1069,19 @@ function GamePhatAm(e) {
 //   (document.onmousemove = handlerMM);
 // var server_youtube = !0,
 //   video_player_id = 1;
+
+//Back Top
+$("#tops").hover(
+  function () {
+    $(this).css(
+      "background",
+      "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -220px -455px transparent"
+    );
+  },
+  function () {
+    $(this).css(
+      "background",
+      "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -170px -455px transparent"
+    );
+  }
+);

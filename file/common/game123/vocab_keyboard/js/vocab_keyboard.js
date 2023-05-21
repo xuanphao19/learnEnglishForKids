@@ -315,11 +315,12 @@ var non_kid_alert =
         );
         return arr;
       },
+      // E:\A_TiengAnh123\Lop_4_test\file\common\game123\js\audio_game_vs1.js
       getAudio: function () {
         var loc_url = obj_vbkd.post_url,
           _url = loc_url.includes("127")
             ? "./file/common/game123/js/audio_game_vs1.js"
-            : "../../../game123/js/audio_game_vs1.js";
+            : "/learnEnglishForKids/file/common/game123/js/audio_game_vs1.js";
         $.getScript(_url, function () {
           $("#game_ubaPlayer").ubaPlayer_game({
             audioButtonClass: "uba_ctrl",

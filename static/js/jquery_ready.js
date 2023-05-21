@@ -461,22 +461,6 @@ $(document).ready(function () {
       .css("color", "#474646");
   });
 
-  //Back Top
-  $("#tops").hover(
-    function () {
-      $(this).css(
-        "background",
-        "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -220px -455px transparent"
-      );
-    },
-    function () {
-      $(this).css(
-        "background",
-        "url(//data.tienganh123.com/images/v2/home/img_homepage.png) no-repeat scroll -170px -455px transparent"
-      );
-    }
-  );
-
   //Menu Cus Login
   $(".vbv2_root a").hover(function () {
     $(".menu_cus").show();
